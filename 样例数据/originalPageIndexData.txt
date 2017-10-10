@@ -1,0 +1,3609 @@
+{
+    "fxbMedias": [
+        {
+            "authorPenname": "漫雨",
+            "commentNumber": 107,
+            "coverPic": "http://img61.ddimg.cn/digital/product/18/13/1960071813_ii_cover.jpg?version=51870c6e-becc-4224-91a6-466e46be5e1b",
+            "desc": "虎落平阳被妞欺？妖孽强兵肖战携神秘任务强势归来,却遇刁蛮女上司……",
+            "mediaId": 1960071813,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105318.html",
+            "promotionId": 0,
+            "saleId": 1980105318,
+            "star": 5,
+            "title": "我的刁蛮女上司",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "萧莫愁",
+            "commentNumber": 798,
+            "coverPic": "http://img62.ddimg.cn/digital/product/22/42/1960072242_ii_cover.jpg?version=8d0f266f-0535-4418-8d99-8c973760a8ad",
+            "desc": "是否真有阴阳两界？茅山正统道派传人，为你揭开道法世界的神秘面纱……",
+            "mediaId": 1960072242,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105747.html",
+            "promotionId": 0,
+            "saleId": 1980105747,
+            "star": 5,
+            "title": "茅山天师",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "扶离",
+            "commentNumber": 51,
+            "coverPic": "http://img60.ddimg.cn/digital/product/53/27/1960085327_ii_cover.jpg?version=32e01b83-223a-4692-bcc0-7f6383567d5c",
+            "desc": "谁说弃妇不配拥有闪光的人生？她偏要拐个总裁一路开挂走上白富美的巅峰。",
+            "mediaId": 1960085327,
+            "mediaType": 1,
+            "productDetailUrl": "./1980118831.html",
+            "saleId": 1980118831,
+            "star": 5,
+            "title": "盛世婚宠之天价萌妻",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "Jassica",
+            "commentNumber": 72,
+            "coverPic": "http://img60.ddimg.cn/digital/product/18/4/1960071804_ii_cover.jpg?version=420e8488-47ca-4d86-b256-57fdd6668361",
+            "desc": "段春盈从小被继母颐指气使，不把段府闹个鸡犬不宁，如何能咽下这口气？",
+            "mediaId": 1960071804,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105309.html",
+            "promotionId": 0,
+            "saleId": 1980105309,
+            "star": 5,
+            "title": "家妻难驯",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "超级大坦克科比",
+            "commentNumber": 18727,
+            "coverPic": "http://img62.ddimg.cn/digital/product/23/14/1960072314_ii_cover.jpg?version=0011ff34-b5d6-407c-a289-1b818b48f291",
+            "desc": "我们是郁金香路居民，终有一天，我叫她郁金香小姐，她叫我笆斗先生……",
+            "mediaId": 1960072314,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105819.html",
+            "saleId": 1980105819,
+            "star": 5,
+            "title": "我的郁金香小姐",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "雨中尘世",
+            "commentNumber": 607,
+            "coverPic": "http://img62.ddimg.cn/digital/product/14/41/1960081441_ii_cover.jpg?version=879019d1-4546-458c-8777-cb3a4fc66bc5",
+            "desc": "月光下的我们相视而立，这究竟是太过真实的梦，还是太过虚幻的现实？ 是否大厦林立、霓虹缤纷的城市边缘，真的有个忘记了尘世纷扰的月光之城？ 皎洁的月光下，洗尽铅华的我们，能不能就那样简简单单地，牵手相拥……",
+            "mediaId": 1960081441,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114944.html",
+            "promotionId": 0,
+            "saleId": 1980114944,
+            "star": 5,
+            "title": "月光下的漂亮女人",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "godSettledBlocks": [
+        {
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/ffsdzz-250-150.jpg",
+            "title": "三两二钱,《阴阳师笔记》等多部悬疑类精品畅销小说作者，全新力作《风水师的诅咒》布局更大，野心更大！",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/sanliangerqian/index.html"
+        }
+    ],
+    "gongBlocks": [
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "公告：2017年9月奖励名单",
+            "type": "dsddw",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/jiangli2017/09.html"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "公告：当当网作家创作指南",
+            "type": "dsddw",
+            "url": "http://dpp.dangdang.com/static/staticPage/help"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "当当网2016年全新福利体系",
+            "type": "detail",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/fuli/index.html"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "网络文学研究生专业招生",
+            "type": "detail",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/zhaoshenggonggao/index.html"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "重要：六月全勤说明！！",
+            "type": "detail",
+            "url": "http://e.dangdang.com/media/h5/pc/gonggao/20160611.htm"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "名家入驻：欧阳锋新作来袭",
+            "type": "detail",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/ouyangfeng/index.html"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "名家入驻：超级大坦克科比",
+            "type": "detail",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/tanke/index.html"
+        },
+        {
+            "code": "1980104792",
+            "coverPic": "",
+            "title": "名家入驻：李清兆悬疑大作",
+            "type": "detail",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/liqingzhao/index.html"
+        },
+        {
+            "code": "",
+            "coverPic": "",
+            "title": "当当新神：徐子雄青春风暴",
+            "type": "classification",
+            "url": "http://e.dangdang.com/media/h5/pc/zhuangti/xuzixiong/index.html "
+        }
+    ],
+    "hotNpZtBlocks": [
+        {
+            "code": "841",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/总裁啊，我的总裁710-240.jpg ",
+            "title": "总裁啊，我的总裁",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "843",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/异界·领主·仙侠·玄幻-680-160.jpg ",
+            "title": "异界·领主·仙侠·玄幻",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "820",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/冷漠校草乖乖女-680-160.jpg",
+            "title": "冷漠校草乖乖女",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "844",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/是男人，就来看！-680-160.jpg",
+            "title": "是男人，就来看！",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "822",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/不念来世，只求今生-680-160.jpg",
+            "title": "不念来世，只求今生",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "839",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/道术无敌-680-160.jpg",
+            "title": "道术无敌",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "774",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/不容错过的100本古装言情小说-680-160.jpg",
+            "title": "不容错过的100本古装言情小说",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "806",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/哥几个，一起混！-680-160.jpg",
+            "title": "哥几个，一起混！",
+            "type": "subject",
+            "url": ""
+        }
+    ],
+    "hotVpZtBlocks": [
+        {
+            "code": "841",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/总裁啊，我的总裁710-240.jpg ",
+            "title": "总裁啊，我的总裁",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "843",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/异界·领主·仙侠·玄幻-680-160.jpg ",
+            "title": "异界·领主·仙侠·玄幻",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "820",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/冷漠校草乖乖女-680-160.jpg",
+            "title": "冷漠校草乖乖女",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "844",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/是男人，就来看！-680-160.jpg",
+            "title": "是男人，就来看！",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "822",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/不念来世，只求今生-680-160.jpg",
+            "title": "不念来世，只求今生",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "839",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/道术无敌-680-160.jpg",
+            "title": "道术无敌",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "774",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/不容错过的100本古装言情小说-680-160.jpg",
+            "title": "不容错过的100本古装言情小说",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "806",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/哥几个，一起混！-680-160.jpg",
+            "title": "哥几个，一起混！",
+            "type": "subject",
+            "url": ""
+        }
+    ],
+    "limitTimeMedias": [
+        {
+            "authorPenname": "风四娘",
+            "commentNumber": 12,
+            "coverPic": "http://img62.ddimg.cn/digital/product/68/18/1960156818_ii_cover.jpg?version=13d63b50-7176-492d-9512-4681cb0c3425",
+            "desc": "嫡女重生溺宠残王妃。",
+            "mediaId": 1960156818,
+            "mediaType": 1,
+            "productDetailUrl": "./1980190322.html",
+            "saleId": 1980190322,
+            "star": 5,
+            "title": "嫡女重生溺宠残王妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "铵释菟籽",
+            "commentNumber": 373,
+            "coverPic": "http://img61.ddimg.cn/digital/product/8/63/1960180863_ii_cover.jpg?version=ea7d0317-8b78-4e5c-95ac-d57eff10bc68",
+            "desc": "总裁穿越宫斗文，集总裁甜宠与帝王轻虐于一身，用细腻文艺的笔风为你带来一场穿越的宫斗盛梦。她曾是个幸福待嫁的小女人，有个宠她无度的总裁男友。然一场意外却让她痛失挚爱并卷入大北朝波谲云诡的浪潮之中。曾经有多少欢笑，如今便有多少泪水；曾经她宠辱不惊，而今她却患得患失。陷入这场梦中的她不愿醒来，因为梦中有他。她想在这梦中陪他看湖看山，看风起云涌，看江山如画。这一切真的只不过是一场梦？",
+            "mediaId": 1960180863,
+            "mediaType": 1,
+            "productDetailUrl": "./1980214367.html",
+            "saleId": 1980214367,
+            "star": 5,
+            "title": "笑看湖山宠不惊",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "姚亿",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/59/49/1960155949_ii_cover.jpg?version=c76dc981-67d1-440d-9ccc-c1240d7e3559",
+            "desc": "两千万一个孩子，她将自己卖作生育工具。　　一次没中，第二次第三次，很多次之后还是没中。　　温晚觉得自己被坑了。　　心有不甘找上门去，谁料那个冷情寡厉权势滔天的男人，竟当着全世界耍赖。　　“是我吃了药又怎样，总之没生孩子，你休想从我身边逃开！”　　温晚怒极：“你不讲理，我要毁约！”　　“可以。”　　男人点头，从全球直播的琉璃台上走下来。　　半跪下去求婚：“毁约条件是，你重新嫁我一次。”　　从身到心的刻骨缠绵，首席大人食髓知味，余生只剩圈养。",
+            "mediaId": 1960155949,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189453.html",
+            "saleId": 1980189453,
+            "star": 0,
+            "title": "隐婚首席，太霸道",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "施阳阳",
+            "commentNumber": 2,
+            "coverPic": "http://img60.ddimg.cn/digital/product/64/96/1960156496_ii_cover.jpg?version=7d4e25cf-18e5-4f96-b30d-2b1ace9da482",
+            "desc": "一穿越就被人给睡了，还不知道对方是谁，白七七表示很操蛋。秉着多看几个帅哥来补偿自己的原则，在充满阴谋诡计的后宫中坚强的活了下来。什么，皇上要让她侍寝？她已不是完璧之身，侍寝不是等于找死？“爱妃，你干嘛躲着朕？”“我有病！”“没事，朕帮你治。”“治不了，臣妾恐命不久矣。”“那就更应该及时行乐。”白七七：“……”",
+            "mediaId": 1960156496,
+            "mediaType": 1,
+            "productDetailUrl": "./1980190000.html",
+            "saleId": 1980190000,
+            "star": 5,
+            "title": "妃不承寝：皇上，求放过",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "读客图书",
+            "commentNumber": 7,
+            "coverPic": "http://img62.ddimg.cn/digital/product/97/76/1960159776_ii_cover.jpg?version=8efd62cb-6dd0-4858-b258-fb46907404a1",
+            "desc": "全球读者平均3个通宵读完的超级巨著！ 在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴情的德国特工……从充满灰尘和危险的煤矿到闪闪发光的皇室宫殿，从代表着权力的走廊到爱恨纠缠的卧室，五个家族迥然不同又纠葛不断的命运逐渐揭晓，波澜壮阔地展现了一个我们自认为了解，但从未如此真切感受过的20世纪。",
+            "mediaId": 1960159776,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193280.html",
+            "saleId": 1980193280,
+            "star": 5,
+            "title": "巨人的陨落",
+            "ycPrice": "免费"
+        }
+    ],
+    "mediaCategory": {
+        "FB": [],
+        "JG": [
+            {
+                "code": "CGLZ",
+                "id": 807,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-CGLZ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-CGLZ2.jpg",
+                "leaf": true,
+                "name": "成功/励志",
+                "parentId": 795,
+                "parsed": false
+            },
+            {
+                "code": "GL",
+                "id": 808,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-GL.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-GL2.jpg",
+                "leaf": true,
+                "name": "管理",
+                "parentId": 795,
+                "parsed": false
+            },
+            {
+                "code": "TZLC",
+                "id": 810,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-TZLC.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-TZLC2.jpg",
+                "leaf": true,
+                "name": "投资理财",
+                "parentId": 795,
+                "parsed": false
+            },
+            {
+                "code": "JJ",
+                "id": 809,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-JJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JG-JJ2.jpg",
+                "leaf": true,
+                "name": "经济",
+                "parentId": 795,
+                "parsed": false
+            }
+        ],
+        "JKS": [
+            {
+                "code": "WWYBS",
+                "id": 846,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JKS-WWYBS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JKS-WWYBS2.jpg",
+                "leaf": true,
+                "name": "外文原版书",
+                "parentId": 801,
+                "parsed": false
+            },
+            {
+                "code": "GTTS",
+                "id": 847,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JKS-GTTS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JKS-GTTS2.jpg",
+                "leaf": true,
+                "name": "港台圖書",
+                "parentId": 801,
+                "parsed": false
+            },
+            {
+                "code": "XYZ",
+                "id": 1182,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JKS-XYZ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JKS-XYZ2.jpg",
+                "leaf": true,
+                "name": "小语种",
+                "parentId": 801,
+                "parsed": false
+            }
+        ],
+        "JY": [
+            {
+                "code": "ZXXJF",
+                "id": 837,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-ZXXJF.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-ZXXJF2.jpg",
+                "leaf": true,
+                "name": "中小学教辅",
+                "parentId": 798,
+                "parsed": false
+            },
+            {
+                "code": "KS",
+                "id": 835,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-KS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-KS2.jpg",
+                "leaf": true,
+                "name": "考试",
+                "parentId": 798,
+                "parsed": false
+            },
+            {
+                "code": "WY2",
+                "id": 836,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-WY2.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-WY22.jpg",
+                "leaf": true,
+                "name": "外语",
+                "parentId": 798,
+                "parsed": false
+            },
+            {
+                "code": "JC",
+                "id": 834,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-JC.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-JC2.jpg",
+                "leaf": true,
+                "name": "大中专教材",
+                "parentId": 798,
+                "parsed": false
+            },
+            {
+                "code": "JJS",
+                "id": 833,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-JJS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-JY-JJS2.jpg",
+                "leaf": true,
+                "name": "工具书",
+                "parentId": 798,
+                "parsed": false
+            }
+        ],
+        "KJ": [
+            {
+                "code": "KPDW",
+                "id": 841,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-KPDW.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-KPDW2.jpg",
+                "leaf": true,
+                "name": "科普读物",
+                "parentId": 799,
+                "parsed": false
+            },
+            {
+                "code": "JSJWL",
+                "id": 839,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-JSJWL.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-JSJWL2.jpg",
+                "leaf": true,
+                "name": "计算机/网络",
+                "parentId": 799,
+                "parsed": false
+            },
+            {
+                "code": "YX",
+                "id": 843,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-YX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-YX2.jpg",
+                "leaf": true,
+                "name": "医学",
+                "parentId": 799,
+                "parsed": false
+            },
+            {
+                "code": "GYJS",
+                "id": 838,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-GYJS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-GYJS2.jpg",
+                "leaf": true,
+                "name": "工业技术",
+                "parentId": 799,
+                "parsed": false
+            },
+            {
+                "code": "JZ",
+                "id": 840,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-JZ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-JZ2.jpg",
+                "leaf": true,
+                "name": "建筑",
+                "parentId": 799,
+                "parsed": false
+            },
+            {
+                "code": "ZRKX",
+                "id": 844,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-ZRKX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-ZRKX2.jpg",
+                "leaf": true,
+                "name": "自然科学",
+                "parentId": 799,
+                "parsed": false
+            },
+            {
+                "code": "NYLY",
+                "id": 842,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-NYLY.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-KJ-NYLY2.jpg",
+                "leaf": true,
+                "name": "农业/林业",
+                "parentId": 799,
+                "parsed": false
+            }
+        ],
+        "NP": [
+            {
+                "code": "XDDS",
+                "id": 81,
+                "leaf": true,
+                "name": "现代都市",
+                "parentId": 79,
+                "parsed": false
+            },
+            {
+                "code": "XHQH",
+                "id": 87,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-XHQH.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-XHQH2.png",
+                "leaf": true,
+                "name": "玄幻奇幻",
+                "parentId": 79,
+                "parsed": false
+            },
+            {
+                "code": "WXXX",
+                "id": 89,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-WXXX.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-WXXX2.png",
+                "leaf": true,
+                "name": "武侠仙侠",
+                "parentId": 79,
+                "parsed": false
+            },
+            {
+                "code": "LSJS",
+                "id": 91,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-LSJS.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-LSJS2.png",
+                "leaf": true,
+                "name": "历史军事",
+                "parentId": 79,
+                "parsed": false
+            },
+            {
+                "code": "YXJJ",
+                "id": 92,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-YXJJ.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-YXJJ2.png",
+                "leaf": true,
+                "name": "游戏竞技",
+                "parentId": 79,
+                "parsed": false
+            },
+            {
+                "code": "KHLY",
+                "id": 93,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-KHLY.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-KHLY2.png",
+                "leaf": true,
+                "name": "科幻灵异",
+                "parentId": 79,
+                "parsed": false
+            },
+            {
+                "code": "TR",
+                "id": 104,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-TR.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-NP-TR2.jpg",
+                "leaf": true,
+                "name": "短篇精品",
+                "parentId": 79,
+                "parsed": false
+            }
+        ],
+        "SH": [
+            {
+                "code": "LXGX",
+                "id": 823,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-LXGX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-LXGX2.jpg",
+                "leaf": true,
+                "name": "两性关系",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "YCTJ",
+                "id": 832,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-YCTJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-YCTJ2.jpg",
+                "leaf": true,
+                "name": "孕产/胎教",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "YEZJ",
+                "id": 831,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-YEZJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-YEZJ2.jpg",
+                "leaf": true,
+                "name": "育儿/早教",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "QZJY",
+                "id": 826,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-QZJY.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-QZJY2.jpg",
+                "leaf": true,
+                "name": "亲子/家教",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "BYJS",
+                "id": 820,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-BYJS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-BYJS2.jpg",
+                "leaf": true,
+                "name": "保健/养生",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "TYYD",
+                "id": 829,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-TYYD.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-TYYD2.jpg",
+                "leaf": true,
+                "name": "体育/运动",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "XSAH",
+                "id": 830,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-XSAH.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-XSAH2.jpg",
+                "leaf": true,
+                "name": "休闲/爱好",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "LYDT",
+                "id": 824,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-LYDT.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-LYDT2.jpg",
+                "leaf": true,
+                "name": "旅游/地图",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "PRMS",
+                "id": 825,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-PRMS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-PRMS2.jpg",
+                "leaf": true,
+                "name": "烹饪/美食",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "SSMX",
+                "id": 828,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-SSMX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-SSMX2.jpg",
+                "leaf": true,
+                "name": "时尚/美妆",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "SGDIY",
+                "id": 827,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-SGDIY.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-SGDIY2.jpg",
+                "leaf": true,
+                "name": "手工/DIY",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "JTJJ",
+                "id": 822,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-JTJJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-JTJJ2.jpg",
+                "leaf": true,
+                "name": "家庭/家居",
+                "parentId": 797,
+                "parsed": false
+            },
+            {
+                "code": "FSZP",
+                "id": 821,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-FSZP.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SH-FSZP2.jpg",
+                "leaf": true,
+                "name": "风水/占卜",
+                "parentId": 797,
+                "parsed": false
+            }
+        ],
+        "SK": [
+            {
+                "code": "ZXZJ",
+                "id": 818,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-ZXZJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-ZXZJ2.jpg",
+                "leaf": true,
+                "name": "哲学/宗教",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "LS1",
+                "id": 814,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-LS1.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-LS12.jpg",
+                "leaf": true,
+                "name": "历史",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "ZZJS",
+                "id": 819,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-ZZJS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-ZZJS2.jpg",
+                "leaf": true,
+                "name": "政治/军事",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "WH",
+                "id": 816,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-WH.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-WH2.jpg",
+                "leaf": true,
+                "name": "文化",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "SHKX",
+                "id": 815,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-SHKX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-SHKX2.jpg",
+                "leaf": true,
+                "name": "社会科学",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "XLX",
+                "id": 817,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-XLX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-XLX2.jpg",
+                "leaf": true,
+                "name": "心理学",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "GJ",
+                "id": 813,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-GJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-GJ2.jpg",
+                "leaf": true,
+                "name": "古籍",
+                "parentId": 796,
+                "parsed": false
+            },
+            {
+                "code": "FL",
+                "id": 812,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-FL.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-FL2.jpg",
+                "leaf": true,
+                "name": "法律",
+                "parentId": 796,
+                "parsed": false
+            }
+        ],
+        "TS": [],
+        "VP": [
+            {
+                "code": "XDYQ",
+                "id": 82,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-XDYQ.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-XDYQ2.png",
+                "leaf": true,
+                "name": "现代言情",
+                "parentId": 80,
+                "parsed": false
+            },
+            {
+                "code": "CYCS",
+                "id": 83,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-CYCS.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-CYCS2.png",
+                "leaf": true,
+                "name": "穿越重生",
+                "parentId": 80,
+                "parsed": false
+            },
+            {
+                "code": "GZYQ",
+                "id": 84,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-GZYQ.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-GZYQ2.png",
+                "leaf": true,
+                "name": "古装言情",
+                "parentId": 80,
+                "parsed": false
+            },
+            {
+                "code": "QCXY",
+                "id": 85,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-QCXY.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-QCXY2.png",
+                "leaf": true,
+                "name": "青春校园",
+                "parentId": 80,
+                "parsed": false
+            },
+            {
+                "code": "HXYQ",
+                "id": 86,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-HXYQ.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-HXYQ2.png",
+                "leaf": true,
+                "name": "幻想言情",
+                "parentId": 80,
+                "parsed": false
+            },
+            {
+                "code": "CATR",
+                "id": 88,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-CATR.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-CATR2.jpg",
+                "leaf": true,
+                "name": "纯爱言情",
+                "parentId": 80,
+                "parsed": false
+            },
+            {
+                "code": "VQT",
+                "id": 90,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-VQT.png",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_YC-VP-VQT2.png",
+                "leaf": true,
+                "name": "短篇精品",
+                "parentId": 80,
+                "parsed": false
+            }
+        ],
+        "WY1": [
+            {
+                "code": "XS2",
+                "id": 805,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-XS2.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-XS22.jpg",
+                "leaf": true,
+                "name": "小说",
+                "parentId": 794,
+                "parsed": false
+            },
+            {
+                "code": "WX",
+                "id": 804,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-WX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-WX2.jpg",
+                "leaf": true,
+                "name": "文学",
+                "parentId": 794,
+                "parsed": false
+            },
+            {
+                "code": "QCWX",
+                "id": 803,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-QCWX.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-QCWX2.jpg",
+                "leaf": true,
+                "name": "青春文学",
+                "parentId": 794,
+                "parsed": false
+            },
+            {
+                "code": "DMYM",
+                "id": 802,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-DMYM.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-DMYM2.jpg",
+                "leaf": true,
+                "name": "动漫/幽默",
+                "parentId": 794,
+                "parsed": false
+            },
+            {
+                "code": "YS",
+                "id": 806,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-YS.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-WY1-YS2.jpg",
+                "leaf": true,
+                "name": "艺术",
+                "parentId": 794,
+                "parsed": false
+            },
+            {
+                "code": "ZJ",
+                "id": 811,
+                "image": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-ZJ.jpg",
+                "image2": "http://10.255.223.212/media/resource/image/column/catetory_DDDS-DZS-SK-ZJ2.jpg",
+                "leaf": true,
+                "name": "传记",
+                "parentId": 794,
+                "parsed": false
+            }
+        ],
+        "XXTS": []
+    },
+    "newNpCommentMedias": [
+        {
+            "authorPenname": "鱼人二代",
+            "commentNumber": 44,
+            "coverPic": "http://img62.ddimg.cn/digital/product/72/84/1960107284_ii_cover.jpg?version=e138e1af-f9c7-4916-8272-347882c96441",
+            "desc": "　　一个大山里走出来的绝世高手，一块能预知未来的神秘玉佩……　　林逸是一名普通学生，不过，他还身负另外一个重任，那就是追校花！而且还是奉校花老爸之命！　　虽然林逸很不想跟这位难伺候的大小姐打交道，但是长辈之命难违抗，他不得不千里迢迢的转学到了松山市，给大小姐鞍前马后的当跟班……于是，史上最牛的跟班出现了——大小姐的贴身高手！　　",
+            "mediaId": 1960107284,
+            "mediaType": 1,
+            "productDetailUrl": "./1980140788.html",
+            "saleId": 1980140788,
+            "star": 5,
+            "title": "校花的贴身高手",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "楚冥山人",
+            "commentNumber": 3,
+            "coverPic": "http://img62.ddimg.cn/digital/product/46/18/1960154618_ii_cover.jpg?version=b1a36ed0-5b82-4fa3-aacc-59ae8ea31cf9",
+            "desc": "从有记忆以来，每当我走进和宗教有关的地方，我就会不由自主的害怕，吓得赶紧退出来。 长大了一些以后，我一直以无神论安慰我自己，那一切只是假的，可是直到那天晚上，一群诡异的黑袍人，把我带进新的世界。 易者，日月之替也，眼者，目也，仰以观天文，俯以察地理。名曰易眼",
+            "mediaId": 1960154618,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188122.html",
+            "saleId": 1980188122,
+            "star": 5,
+            "title": "易眼",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "烟雨独醉",
+            "commentNumber": 193,
+            "coverPic": "http://img61.ddimg.cn/digital/product/54/98/1960155498_ii_cover.jpg?version=f83d70cf-9c8b-40aa-a981-76d749ba13a1",
+            "desc": "当爱情的曙光在我面前慢慢消失时，当生活的希望在我的世界里逐渐暗淡时，她的出现宛若一盏明灯照亮了我的前路……终于有一天我发现原来爱就在身边，原来她就是我生命中那朵绚丽无比的心灵圣花……",
+            "mediaId": 1960155498,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189002.html",
+            "promotionId": 0,
+            "saleId": 1980189002,
+            "star": 5,
+            "title": "我的清纯女朋友",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "天天就会做梦",
+            "commentNumber": 3,
+            "coverPic": "http://img61.ddimg.cn/digital/product/45/5/1960174505_ii_cover.jpg?version=166edcbe-c72b-4f3c-8dc4-8b2c765cedb7",
+            "desc": "章伟一觉醒来发现已经不在熟悉的地球了，眼前是一款叫做王者荣耀的游戏。 而他则化身李白进行一场场无谓的战斗。 猎杀者？英雄联盟觉醒英雄？中微子？人工智能？长生不老？ 处于漩涡中心的章伟该何去何从他不知道，不过他知道的是: 从此，以往的生活崩溃了，现在，是新的开始。 这里有的不仅仅是游戏，还有我们的未来！ QQ聊天交友群245434308",
+            "mediaId": 1960174505,
+            "mediaType": 1,
+            "productDetailUrl": "./1980208009.html",
+            "promotionId": 0,
+            "saleId": 1980208009,
+            "star": 5,
+            "title": "王者荣耀李白传说",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "李幼谦",
+            "commentNumber": 20,
+            "coverPic": "http://img62.ddimg.cn/digital/product/10/86/1960181086_ii_cover.jpg?version=cbb41d02-034d-4465-94d2-deec00d8b2bb",
+            "desc": "真小子、假小子，锅铲锅盖当法器，修行就是多读书，破除阴谋斗天地……",
+            "mediaId": 1960181086,
+            "mediaType": 1,
+            "productDetailUrl": "./1980214591.html",
+            "saleId": 1980214591,
+            "star": 5,
+            "title": "小子大任",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "北风南风",
+            "commentNumber": 110,
+            "coverPic": "http://img62.ddimg.cn/digital/product/29/85/1960182985_ii_cover.jpg?version=ef3f96e3-a11a-478a-bcad-05c6c755978b",
+            "desc": "如果我有个世界？哪有这种好事？不？有！当沈慎能进入一个类似《我的世界》游戏的方块世界，这个世界的所有资源都能为我所用！我还能加入各种模组！优秀的生长工艺，请叫我农场主大人；宏大的工业模组，开创我的工业革命；神秘的魔法模组，再搞事送你一个暴风雪！喂！把枪械模组放下！那东西是管制品！（欢迎加入书友群：我们的方块世界，群号“464299158”）",
+            "mediaId": 1960182985,
+            "mediaType": 1,
+            "productDetailUrl": "./1980216536.html",
+            "saleId": 1980216536,
+            "star": 5,
+            "title": "我的世界之方块万岁",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newNpRecommendMedias": [
+        {
+            "authorPenname": "乐乐神",
+            "commentNumber": 113,
+            "coverPic": "http://img60.ddimg.cn/digital/product/24/84/1960072484_ii_cover.jpg?version=820f3603-8f39-4edf-8662-acbe06b47fdf",
+            "desc": "一个阴年阴月阴日生的人，随师父踏上修道之路，超度善鬼，惩治恶鬼……",
+            "mediaId": 1960072484,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105987.html",
+            "saleId": 1980105987,
+            "star": 5,
+            "title": "我在民国当道士",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "鹅是老五",
+            "commentNumber": 1447,
+            "coverPic": "http://img61.ddimg.cn/digital/product/64/54/1960146454_ii_cover.jpg?version=2d761c9a-c975-4970-9477-07f2e9d8a343",
+            "desc": "在这里，拥有灵根才能修仙，所有凡根注定只是凡人。莫无忌，只有凡根，一介凡人！是就此老去，还是不甘？",
+            "mediaId": 1960146454,
+            "mediaType": 1,
+            "productDetailUrl": "./1980179958.html",
+            "saleId": 1980179958,
+            "star": 5,
+            "title": "不朽凡人",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "原始部落",
+            "commentNumber": 4,
+            "coverPic": "http://img62.ddimg.cn/digital/product/17/22/1960091722_ii_cover.jpg?version=4cb1688b-89cb-4868-b516-1782be4adf7a",
+            "desc": "命运悲苦的基层公务员张峰，手里拿着举报材料，在去往新安市的途中遇到一场谋杀却意外的与一位市纪委的处长，公安厅党委书记卢子峰的儿子卢天成互换了身份。　　奇怪的命运安排让他这个倒霉蛋，从此在官场上风生水起，不但金钱无忧，更有大量美女尽收麾下，一身正气，斩杀腐败官员，收拾地方恶霸。　　一时间，张峰的名声传遍了大江南北，无论是他的敌人还是朋友都称他为铁手判官。　　然而事情并未结束，卢子峰心里一直藏着一个秘密，多年之后的一次意外，隐藏的秘密浮出了水面，而这次意外却无意中解开了张峰的身世之谜。　　卢天成的再度出现，平静的生活又起波澜。　　【作者群号】：313309372",
+            "mediaId": 1960091722,
+            "mediaType": 1,
+            "productDetailUrl": "./1980125226.html",
+            "saleId": 1980125226,
+            "star": 2,
+            "title": "官印",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "纷舞妖姬",
+            "commentNumber": 3,
+            "coverPic": "http://img61.ddimg.cn/digital/product/93/90/1960099390_ii_cover.jpg?version=b1766876-c99f-4826-b35e-3cc6e93f3fc3",
+            "desc": "　　当国破家亡，当山河破碎，当强敌入侵，当一个民族面对生死存亡，我们需要的是最血腥，最狂放，最张扬，最能激发起每一个士兵不屈、不败战魂的铁血英雄！　　我们需要的，是一支以坚攻坚，以强克强，强大的可以让任何强敌为之却步的铁血雄师！　　这是一部描写中国第五特殊部队创始人传奇一生的小说，这是一部贯穿抗日战争、抗美援朝，对印自卫反击战，再现战火飞扬的血之篇章。请每一个中国军人，牢牢记住那个时代的英雄，留给我们的两句话：　　宁为战场亡魂，不做亡国之奴！",
+            "mediaId": 1960099390,
+            "mediaType": 1,
+            "productDetailUrl": "./1980132894.html",
+            "saleId": 1980132894,
+            "star": 5,
+            "title": "第五部队",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "录事参军",
+            "commentNumber": 1,
+            "coverPic": "http://img60.ddimg.cn/digital/product/39/82/1960143982_ii_cover.jpg?version=8aac90b9-50cc-4262-a1e8-dcfa5f6d9abe",
+            "desc": "　　混社会的黑道头目武植化身武大郎，演绎出一段段或可歌可泣或香艳缠绵的故事！　　铁血的山庄，宋辽的世仇，快意的人生，呼啸而来的红颜！请看《大宋贵王武植演义》！　　本文部分参考史实，非严谨性架空历史，请各位不必深究！",
+            "mediaId": 1960143982,
+            "mediaType": 1,
+            "productDetailUrl": "./1980177486.html",
+            "saleId": 1980177486,
+            "star": 5,
+            "title": "重生之武大郎玩转宋朝",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newNvPopFullMedias": [
+        {
+            "authorPenname": "默冷笑",
+            "commentNumber": 2,
+            "coverPic": "http://img62.ddimg.cn/digital/product/1/65/1960140165_ii_cover.jpg?version=47787288-8bdd-4fd8-9377-02f6e1d050e7",
+            "desc": "她，冷无心，一朝穿越来到这个不知名的大陆，斗姨娘，虐庶妹，整渣男。偏偏阴沟里翻船，被人设计失了身，丢了心，她当时就甩下一句话，“你能为了我做到一生一世一双人吗？” 　　她就是他的劫，情爱本与他无关，可却无意动了情。但她又岂是轻易可以掌控的，他算计得了天下，却唯独算漏了她的心。 　　殊不知，这一切的一切竟是一场精心策划的阴谋… 　　",
+            "mediaId": 1960140165,
+            "mediaType": 1,
+            "productDetailUrl": "./1980173669.html",
+            "saleId": 1980173669,
+            "star": 5,
+            "title": "冷情世子无情妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "上下糖",
+            "commentNumber": 4,
+            "coverPic": "http://img61.ddimg.cn/digital/product/57/63/1960155763_ii_cover.jpg?version=1d7e3015-3cce-415f-a0fe-5eb72c27f1a6",
+            "desc": "小时候，他嫌弃她又笨又丑，还取了个绰号：“酱油瓶！”长大后，他各种欺负她，理由是：“因为本大爷喜欢你，才欺负你！”他啥都好，就是心肠不好，从五岁就开始欺负她，骂她蠢傻，取她绰号，收她漫画，逼她锻炼，揭她作弊……连早个恋，他都要横插一脚！某一天，他见她貌美声甜，把她各种咚：“已经养熟了，可以吃了！”",
+            "mediaId": 1960155763,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189267.html",
+            "saleId": 1980189267,
+            "star": 5,
+            "title": "腹黑竹马欺上身：吃定小青梅",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "三千渡",
+            "commentNumber": 0,
+            "coverPic": "http://img62.ddimg.cn/digital/product/0/45/1960100045_ii_cover.jpg?version=2a1e1078-2dd7-4190-8833-9114033fe70f",
+            "desc": "她背弃家国，以万人的鲜血，染红他的帝座。 他却挽她人登上帝位，一道圣旨，她被冠上乱伦苟且的罪名。 天下愚民，被蛊惑，以为喝她的血能灭病痛，她被刺百刀饮血，最后被渣男渣女剜心而亡，孩儿被摔亡。 灵魂不灭，竟然重生在相府庶出四小姐身上。 嫡母狠心，嫡姐伪善，姨娘庶妹狼子野心，她步步惊心，遇神杀神，遇佛杀佛。 这一世，她是嗜血修罗，要毁了他的天下，杀了他的人，誓把人间，变成地狱。 她是妖妃秋意浓，一世艳骨，凡尘杀戮，不想成佛，只想成魔。",
+            "mediaId": 1960100045,
+            "mediaType": 1,
+            "productDetailUrl": "./1980133549.html",
+            "saleId": 1980133549,
+            "star": 0,
+            "title": "重生之杀伐庶女：亡妃归来",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "青铜城",
+            "commentNumber": 2,
+            "coverPic": "http://img62.ddimg.cn/digital/product/44/1/1960084401_ii_cover.jpg?version=88083cd6-abd3-40b3-98bd-eb7da0ddf040",
+            "desc": "三十岁的剩女顾新蕊和青年富豪秦天海，阴错阳差而来的一段露水情缘。",
+            "mediaId": 1960084401,
+            "mediaType": 1,
+            "productDetailUrl": "./1980117904.html",
+            "saleId": 1980117904,
+            "star": 5,
+            "title": "剩女桃花劫",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "林笛儿",
+            "commentNumber": 4,
+            "coverPic": "http://img60.ddimg.cn/digital/product/10/93/1960101093_ii_cover.jpg?version=4bd5601b-967b-4be6-948c-83882f38e4d8",
+            "desc": "　　她借着酒意敲开了他的门，他眯起眼，邪魅地歪歪嘴角：干吗？　　她脑中闪过一张冷峻漠然的面孔，她甩甩头，手搭上他的肩，装疯卖傻地笑道：陪你呀！　　当真？　　比真理还真。　　他盯了她两秒，弯下腰，嘴角擦过她的脸颊：再说一遍。　　只做不说。她晕眩地将手伸向他的腰带。　　结婚时，她知道他心里面有一个人。　　不过有情人总难成眷属，他和那个人是不可能在一起的。　　朋友说，人都是你的了，你还有什么不放心的？　　后来，那个人回来了。　　后来，她遇到了一个有着一对桃花眼的男人。　　出轨的开始，是一点诱惑，一点报复，一点放纵，还有一点无奈、一点自我放弃。　　出轨的结局。。。。。。　　",
+            "mediaId": 1960101093,
+            "mediaType": 1,
+            "productDetailUrl": "./1980134597.html",
+            "saleId": 1980134597,
+            "star": 5,
+            "title": "预谋出轨",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newNvpRecommendMedias": [
+        {
+            "authorPenname": "清目",
+            "commentNumber": 24,
+            "coverPic": "http://img61.ddimg.cn/digital/product/21/19/1960152119_ii_cover.jpg?version=86ffe957-ff74-42bc-9856-4544658a0658",
+            "desc": "她是寒门子弟，父亲重病，母亲早逝，一穷二白。 他是高干总裁，海港城帝王，一次邂逅，他爱上了她。 他说：“苏沫，不管天涯海角，你永远是我的女人。” 苏沫感动流泪，却坚决摇头：”顾晨，我们不可能了。“ 当晚，她转身投入另一个男人的怀抱，只因为救他……",
+            "mediaId": 1960152119,
+            "mediaType": 1,
+            "productDetailUrl": "./1980185623.html",
+            "saleId": 1980185623,
+            "star": 5,
+            "title": "婚婚欲醉",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "恍若晨曦",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/43/91/1960154391_ii_cover.jpg?version=a058cb16-6b22-448a-bd3b-e08bbca08b71",
+            "desc": "外人以为楚少高冷装逼欲求不满，却不知他幼时一场绑架，夜夜噩梦。直到遇到顾念，他才突然觉得睡觉这件事蛮有滋味……她深夜录口供，看着眼前的面瘫大少，眼皮直跳。“姓名。”“你男人。”“……好好说话！特长！”“中指特长。”“……楚邵阳我告诉你，你没救了！”他猛然站起急速逼近，将她压迫在桌前，“今晚解锁新姿势？”顾念：“楚昭阳，你喜欢我什么？”“……”楚昭阳默默解开衬衣第一颗纽扣。顾念：“楚昭阳，等我老了，长得不好看了，你还会喜欢我吗？”“……”楚昭阳默默解开衬衣第二颗纽扣。顾念：“楚昭阳，别总瘫着脸，笑一个给我看看呗。”“……”楚昭阳面无表情的解开衬衣第三颗纽扣。顾念：“楚昭阳，我告诉你美男计使多了就不管用了！”楚昭阳张开双臂，“来不来？”“嗷！”顾念飞扑过去。一小时后，顾念，卒。他知道她心里住着一个人，即使那个人再也不会回来，他要做的就是把那人赶走，让她的心房换个房客。可后来那个本应已经死去的人回来了……他凄惨的说：“顾念，我好像无家可归了。”却见顾念指着心窝：“当初你住进来的时候，我与你签的是终身居住协议。”他笑。内心自带弹幕的面瘫BoyVS元气警花一如既往的简介无能，但这是篇宠文不要怀疑，(づ￣3￣)づ喜欢请点下方加入书架~",
+            "mediaId": 1960154391,
+            "mediaType": 1,
+            "productDetailUrl": "./1980187895.html",
+            "saleId": 1980187895,
+            "star": 0,
+            "title": "七公子③面瘫老公，早上好",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "千山茶客",
+            "commentNumber": 2,
+            "coverPic": "http://img61.ddimg.cn/digital/product/16/38/1960131638_ii_cover.jpg?version=04ca0f9a-2e74-408b-bca8-647213575a3e",
+            "desc": "侯门嫡女，生母病逝，长兄战死，父亲不慈，继母伪善，幺妹披着仙女皮，和伪君子恋人一起算计她入宫为棋？朝风云突变，心爱之人坐拥天下，自己却落得祸国妖女之名。嫡妹心思狠毒，父亲冷眼相待，步步高升，方知自己已成家族弃子。亲眼目睹幼子被权臣致死，她双目泣血，心中立下毒誓。苍天有眼，竟让她回到十年前，蒋氏嫡女，地狱归来！本文纯属虚构，请勿模仿。",
+            "mediaId": 1960131638,
+            "mediaType": 1,
+            "productDetailUrl": "./1980165142.html",
+            "saleId": 1980165142,
+            "star": 5,
+            "title": "毒妻惑国：重生之嫡女祸妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "凤轻",
+            "commentNumber": 2,
+            "coverPic": "http://img60.ddimg.cn/digital/product/47/46/1960124746_ii_cover.jpg?version=032db889-a84b-4888-b6ef-684f269528d4",
+            "desc": "前世，她是相门之女，一朝沦落家破人亡。满腔才情只付秦楼楚馆。今生，“害我顾氏，诛我父祖，辱我亲兄。我顾云歌不杀慕容煜誓不为人！”一条相门孤女到开国名相的奋斗之路，一段弱势皇子到一代圣君的争霸传奇！倾云始皇为她誓，永不立后，永不纳妃。本文纯属虚构，请勿模仿。",
+            "mediaId": 1960124746,
+            "mediaType": 1,
+            "productDetailUrl": "./1980158250.html",
+            "saleId": 1980158250,
+            "star": 3,
+            "title": "盛世谋臣",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "糯米紫",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/79/83/1960097983_ii_cover.jpg?version=7c16df27-0f08-411c-8123-e2f570572037",
+            "desc": "封九九从天而降把某王爷的“真爱”坐在身下，可为毛这位有身材有肌肉的王爷的“真爱”是个带把儿的，她一个不爽，顺走了人家王爷的定情金牌，还用脚踹了人家某重要位置。然后她就华丽丽被追杀了。更惨的是，她居然穿越成一位没娘疼爹不爱的公主，从小就被丢到冷宫里，皇后不容她、四公主要毒死她、未婚夫要退她婚，便宜皇帝老爹还不准她踏出冷宫半步。这些她都没放在眼里，骗了未婚夫十万两之后铁索飞绳准备逃出宫，可某王爷有半夜不睡觉偷爬宫墙的习惯，被他当场逮了个正着。次日，他在皇帝面前将她要走。噢漏，不是说他只喜欢男人不爱女人吗？为毛他却夜夜拜访她，欺负了她之后还在她身上放冷气，每次都差点被冻成一条冰棍？最后的最后……她才知道，她一个大活人被当成解药给“做”了！",
+            "mediaId": 1960097983,
+            "mediaType": 1,
+            "productDetailUrl": "./1980131487.html",
+            "saleId": 1980131487,
+            "star": 0,
+            "title": "狼系帝女妃",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newPopFullMedias": [
+        {
+            "authorPenname": "晴天",
+            "commentNumber": 76,
+            "coverPic": "http://img61.ddimg.cn/digital/product/13/88/1960081388_ii_cover.jpg?version=43a22601-e996-4da2-bd53-4ca53cb912b9",
+            "desc": "“喂，你还好吗？” “不好。” “你还爱我吗？” “爱。” “那回到我身边吧！” “好啊！” 路人甲姑娘站在喧闹的街头，对我微笑着应道，她的笑容没变，还是那个味道......",
+            "mediaId": 1960081388,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114891.html",
+            "saleId": 1980114891,
+            "star": 5,
+            "title": "我的路人甲姑娘",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "本物天下霸唱",
+            "commentNumber": 36,
+            "coverPic": "http://img61.ddimg.cn/digital/product/23/59/1960102359_ii_cover.jpg?version=0e705bd4-b786-4a75-8d16-76e95b96ff40",
+            "desc": "远古的文明，失落的宝藏，神秘莫测的古墓。      一本主人公家中传下来的秘书残卷为引，三位当代摸金校尉，在离奇诡异的地下世界中，揭开一层层远古的神秘面纱。      昆仑山大冰川下的九层妖楼，这里究竟是什么？藏着消失的古代魔国君王陵寝，诡异殉葬沟，神秘云母，地下九层“金”字高塔，堆满奇特古装的干枯骨骸。这里又有那些未知生物？漫天带火瓢虫袭来，巨大神秘爬行怪物。一群人险死求生！",
+            "mediaId": 1960102359,
+            "mediaType": 1,
+            "productDetailUrl": "./1980135863.html",
+            "saleId": 1980135863,
+            "star": 5,
+            "title": "鬼吹灯（盗墓者的经历）",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "何常在",
+            "commentNumber": 1,
+            "coverPic": "http://img61.ddimg.cn/digital/product/18/81/1960091881_ii_cover.jpg?version=b19e23e8-7e46-4902-a653-4afa381d29f3",
+            "desc": "铁口直断，点人前程，是为相师。铜口直断，决人富贵，是为运师。金口直断，改人命运，是为命师。　　不是算命先生，也不是相面大师，却有断人命运定人前程的高明，施得在命运跌入低谷之时，意外遇到了一名运师，在运师的指点下，青云直上。人在官场商场之外，无权无势，只是民间一平民，却能呼风唤雨，成为无人知道却又让无数人仰慕的隐形掌门人！　　一次生意失败，引出两大世外高人，三大派系利益纠葛浮出水面，搅动四方风云！",
+            "mediaId": 1960091881,
+            "mediaType": 1,
+            "productDetailUrl": "./1980125385.html",
+            "saleId": 1980125385,
+            "star": 5,
+            "title": "命师",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "鸿蒙树",
+            "commentNumber": 3,
+            "coverPic": "http://img62.ddimg.cn/digital/product/5/43/1960110543_ii_cover.jpg?version=29c948d4-5207-486d-8081-82a4ae7bcc16",
+            "desc": "　　.　　一个小人物被拍了一板砖后发生的官场故事　　.　　.　　不一样的官场文!　　　　",
+            "mediaId": 1960110543,
+            "mediaType": 1,
+            "productDetailUrl": "./1980144047.html",
+            "saleId": 1980144047,
+            "star": 4,
+            "title": "官气",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "三戒大师",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/28/97/1960112897_ii_cover.jpg?version=718c42e7-5396-4e93-8db6-6c6397338403",
+            "desc": "　　庆历五年春，范文正新政改革失败，富弼也跟着被下放，滕子京重修了岳阳楼，欧阳修喝得烂醉如泥，韩相公却依然高帅富，文彦博彻底成精；狄青成了大宋吊丝偶像，拗相公和司马牛才刚刚参加工作，包青天还没资格打坐开封府，苏东坡正在换牙，仁宗皇帝努力造人中……　　就像上天的安排，大宋朝乃至华夏民族最杰出的一帮家伙，全都挤在这个年代粉墨登场。这是最华丽璀璨、最开明自由的年代，空气都令人迷醉。　　但还有一个甲子，这个迷人的时代，就要毁灭在异族的铁蹄之下……这到底是因为什么，有没有幸免的可能？　　一只蝴蝶，穿过千年的时空，来到了这个流光溢彩的时代，带你阅尽市井的繁华，带你‘月上柳梢头，人约黄昏后’，带你与最顶尖的家伙把酒言欢，带你找到所有的答案。　　只是不知他扇动小小翅膀，能为这个世界，带来多少改变……",
+            "mediaId": 1960112897,
+            "mediaType": 1,
+            "productDetailUrl": "./1980146401.html",
+            "saleId": 1980146401,
+            "star": 0,
+            "title": "一品江山",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newPotentialRedMedias": [
+        {
+            "authorPenname": "辰东",
+            "commentNumber": 11,
+            "coverPic": "http://img61.ddimg.cn/digital/product/35/87/1960113587_ii_cover.jpg?version=7f7ed352-c172-43d6-8b60-c18f679e0e7c",
+            "desc": "　　 　　冰冷与黑暗并存的宇宙深处，九具庞大的龙尸拉着一口青铜古棺，亘古长存。 　　这是太空探测器在枯寂的宇宙中捕捉到的一幅极其震撼的画面。 　　九龙拉棺，究竟是回到了上古，还是来到了星空的彼岸？ 　　一个浩大的仙侠世界，光怪陆离，神秘无尽。热血似火山沸腾，激情若瀚海汹涌，欲望如深渊无止境…… 　　登天路，踏歌行，弹指遮天。 　　",
+            "mediaId": 1960113587,
+            "mediaType": 1,
+            "productDetailUrl": "./1980147091.html",
+            "saleId": 1980147091,
+            "star": 5,
+            "title": "遮天",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "瑞根",
+            "commentNumber": 18,
+            "coverPic": "http://img60.ddimg.cn/digital/product/79/34/1960107934_ii_cover.jpg?version=36fb9c11-9e1f-4ef8-9eeb-b00c43d70fc5",
+            "desc": "　　自信人生二百年，会当击水三千里！　　当改革开放的时代大潮来袭，陆为民该如何重掌这人生际遇？　　从毕业分配失意到自信人生的崛起，诡谲起伏的人生，沉浮跌宕的官场，一步一个脚印，抓住每一个机会，大道无形，行者无疆，漫漫官道，唯有胸怀天地，志存高远，方能直抵彼岸。　　官场经典之作。",
+            "mediaId": 1960107934,
+            "mediaType": 1,
+            "productDetailUrl": "./1980141438.html",
+            "saleId": 1980141438,
+            "star": 5,
+            "title": "官道无疆",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "小树丫",
+            "commentNumber": 18,
+            "coverPic": "http://img62.ddimg.cn/digital/product/34/78/1960083478_ii_cover.jpg?version=7c067c66-c9c1-45cf-b339-8b86c6fff405",
+            "desc": "一次身不由己的接待，让女秘书梁晓素结识了江南大鳄，并由此陷入了仕途最危险的情感中。从此她的命运和他紧密相连，步步危机，却又步步为营……　　一段女秘书的隐秘情事，为您揭示职场中最危险的情感，为您描述人生中最触动人心的真情。",
+            "mediaId": 1960083478,
+            "mediaType": 1,
+            "productDetailUrl": "./1980116981.html",
+            "saleId": 1980116981,
+            "star": 5,
+            "title": "机关第一女秘的仕途笔记",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "苍山月",
+            "commentNumber": 4,
+            "coverPic": "http://img60.ddimg.cn/digital/product/72/77/1960147277_ii_cover.jpg?version=0b8cde62-fb27-4bc6-8f83-57462e6d0cf2",
+            "desc": "庆历六年，中原大地群狼环嗣，赵宋王朝歌舞升平....　　唐奕梦回千年，亲眼见识了大宋的雍容华贵与温情。　　起初他只想享受这个时代，什么靖康之耻、蒙古铁骑都与他无关。反正再怎么闹腾历史都有它自己的轨迹。　　千年之后中华还是中华！亡不了！　　但当那位忧国忧民的老人出现在他面前的时候，他的心变了...他想为那个老人做点什么顺便为这个时代做点什么....　　于是怎么把大宋这只羊，变成呲着资本獠牙的狼！成了唐奕唯一的目标！！【客官老爷吐槽群：　492610427】",
+            "mediaId": 1960147277,
+            "mediaType": 1,
+            "productDetailUrl": "./1980180781.html",
+            "saleId": 1980180781,
+            "star": 5,
+            "title": "调教大宋",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "犁天",
+            "commentNumber": 11,
+            "coverPic": "http://img61.ddimg.cn/digital/product/36/93/1960113693_ii_cover.jpg?version=3e2bb477-f792-4dff-9f29-e180575d28ca",
+            "desc": "　　中国古武界史上最年轻的大宗师武星河,重生在异世界一个下等贵族少年身上。再次开启他武道追求的颠峰之路.　　不依阿权贵，不妥协豪门,哪怕你火海焚身，自有两只铁拳打出一片清朗乾坤；哪怕你刀山盖顶，自有一口真气喷上九霄气冲星河!　　身似蛟龙，到哪都能翻江倒海;心如猛虎，何处不可傲啸山林　　欺山赶海,不参仙佛,不拜鬼神,未惧这处处地网天罗　　轮回十世,上凌九霄,下踏黄泉,只为那一刻气冲星河",
+            "mediaId": 1960113693,
+            "mediaType": 1,
+            "productDetailUrl": "./1980147197.html",
+            "saleId": 1980147197,
+            "star": 5,
+            "title": "气冲星河",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newRecommendMedias": [
+        {
+            "authorPenname": "南无袈裟理科佛、",
+            "commentNumber": 24,
+            "coverPic": "http://img62.ddimg.cn/digital/product/40/21/1960154021_ii_cover.jpg?version=34363689-c50a-4cb4-ae22-757e0bfcc833",
+            "desc": "农历五月初五，鬼脸蝴蝶、大灰蛾子、白粉蝶、赤蛱蝶各一对，捉马蜂、毒蜂、蚕虫、毒蛇、蜈蚣、虾蟆六物研磨成粉，三日之后用开水淋杀，加女子头发、指甲和经血毒菌、曼陀罗花等植物，研成粉末，即成蛊毒。若女子为情所伤，下于负心人之身，则成蛊胎，受蛊者不但最终会肠穿肚烂，浑身长虫，而且还会……我，即是那个“负心人”！“苗疆系列”大背景下全新力作，一部筹备已久，具有野心的作品。",
+            "mediaId": 1960154021,
+            "mediaType": 1,
+            "productDetailUrl": "./1980187525.html",
+            "saleId": 1980187525,
+            "star": 5,
+            "title": "捉蛊记",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "茗夜",
+            "commentNumber": 18,
+            "coverPic": "http://img62.ddimg.cn/digital/product/6/23/1960110623_ii_cover.jpg?version=002e3ecb-b5d8-46a2-9665-70f68644adc9",
+            "desc": "　　天才少年，得上古传承，医必死之病，灭至强之人。  　　武圣之拳，华佗之针，北踢蒙教，南降巫蛊，东灭倭寇，西抗十字教，坐镇神州。  　　这是一个少年的逆天之路。",
+            "mediaId": 1960110623,
+            "mediaType": 1,
+            "productDetailUrl": "./1980144127.html",
+            "saleId": 1980144127,
+            "star": 5,
+            "title": "医鼎",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "阿诸_",
+            "commentNumber": 139,
+            "coverPic": "http://img61.ddimg.cn/digital/product/92/73/1960109273_ii_cover.jpg?version=36d11d1b-9356-49a5-be03-46828fb7e648",
+            "desc": "这是一个特殊的职场，是所有精英男人梦寐以求的地方，有着男人所有的抱负、追求和梦想......且看一名小科员是如何步步走来，最后权倾一方，官至权力之巅……。  备注：96到99合并在一起了，作者标注序号的时候标注错了。所以请勿以为是跳章了。",
+            "mediaId": 1960109273,
+            "mediaType": 1,
+            "productDetailUrl": "./1980142777.html",
+            "saleId": 1980142777,
+            "star": 5,
+            "title": "权力之巅",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "炒酸奶",
+            "commentNumber": 4,
+            "coverPic": "http://img61.ddimg.cn/digital/product/70/8/1960117008_ii_cover.jpg?version=bf9c4c93-1191-445f-8641-388665ca945c",
+            "desc": "闺怨少妇、清纯校花、妩媚教师、暴躁警花、善良护士，霸道总裁、高冷军官、刁蛮二代、无情杀手、可爱道姑、呆萌萝莉、优雅舞蹈家……这小小的四合院，住着一群绝色美女房客，而陈阳则是她们的房东。好吧，既然如此，保护美女房客这个光（yin）荣（dang）而艰（feng）巨（sao）的任务，只能落在我的头上了。——陈阳",
+            "mediaId": 1960117008,
+            "mediaType": 1,
+            "productDetailUrl": "./1980150512.html",
+            "saleId": 1980150512,
+            "star": 5,
+            "title": "我的绝色美女房客",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "河帅",
+            "commentNumber": 6,
+            "coverPic": "http://img61.ddimg.cn/digital/product/80/16/1960088016_ii_cover.jpg?version=c93ef776-e878-4917-9c20-93c4391654d2",
+            "desc": "古语有云：“一命二运三风水。”天生盘龙命格，承载卧虎风水的最强特种兵叶青，为了救回被拐走的唯一弟弟，毅然退伍南下。可是，在这灯红酒绿的都市，隐忍只是无用，拳头才是真理。英雄气短，儿女情长，终究敌不过那残酷的生存法则。而他，誓要成为那生存法则的制定者！PS：新书《都市至尊霸主》已经上传。",
+            "mediaId": 1960088016,
+            "mediaType": 1,
+            "productDetailUrl": "./1980121520.html",
+            "saleId": 1980121520,
+            "star": 5,
+            "title": "都市武圣",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newVpCommentMedias": [
+        {
+            "authorPenname": "谁家娘子",
+            "commentNumber": 175,
+            "coverPic": "http://img61.ddimg.cn/digital/product/93/85/1960099385_ii_cover.jpg?version=6e05c86b-ff39-4069-893c-23d75ac5cd7e",
+            "desc": "当现黑道后裔穿到古代会如何？自是美男遍地随我……当然也有意外。 某女包袱款款悻悻然逃出军营，还没走几里路，便被数万大军团团围困。 男人环胸上前，森然道：“皇后这是作甚？” 女人不甘示弱，耸耸肩摊手道：“这就好比工作一样，这家干得不开心就换一家呗。” “皇后也能换？” “世上无难事，只怕有心人，让开。” 男人眸光一凌，揪住女子的衣襟凛冽道：“柳南湘，不妨告诉你，此生你只能是朕的人，死了也得朕亲手来埋，看来这段时间是太冷落你了，来人啊，带回朕的营帐。” 还敢给他红杏出墙，简直翻了天了。",
+            "mediaId": 1960099385,
+            "mediaType": 1,
+            "productDetailUrl": "./1980132889.html",
+            "saleId": 1980132889,
+            "star": 5,
+            "title": "一世荣宠：陛下皇后跳槽了",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "旖旎萌妃",
+            "commentNumber": 323,
+            "coverPic": "http://img61.ddimg.cn/digital/product/41/52/1960154152_ii_cover.jpg?version=785f21ca-f13c-46eb-b169-c42c0598e754",
+            "desc": "【本文已签约出版实体书，质量保证，欢迎进坑】【萌的隔云三部曲中的第三部温水煮婚姻出版名《婚不由己2》即将上市，欢迎围观】那一年，家庭破碎难堪的时候，他将离婚协议书甩给了她。她含笑接过早已预料到的协议书，对他说，“谢谢你这么多年的利用，终于让我明白了什么叫卑鄙小人！”一场事故，毁掉了他的心上人，也烧毁了所有的怨恨。从此，一条陌路，两个陌生人……她没人没钱，在行业里受尽欺凌之时，他高贵，儒雅，目不斜视的走过她的身边。好像从没认识过她“千金小姐果然不适合做这一行！”“这就是你做的计划书？你在浪费我们大家的时间！”“别用你那种高贵的眼神看着我，你以为你还是当初那个千金小姐？”千金大小姐？不，如果还是曾经的宋衍，怎么能忍受他这样的欺凌？她早已不是他的小娇妻，那个高贵又纯洁的千金小姐。“我不干了！”甩掉了他给的所有包袱，她终于选择退缩。但是他却暴怒的封闭了她所有的生活。林暮沉，你爱我吗？如果你爱我，为何却毫不犹豫的折断我所有的翅膀？如果你不爱我，为何又艰难的为我筑起一道保护的城墙？其实，她从不知道，他用那样一种高傲的方式，爱她爱到，低入尘埃…",
+            "mediaId": 1960154152,
+            "mediaType": 1,
+            "productDetailUrl": "./1980187656.html",
+            "saleId": 1980187656,
+            "star": 5,
+            "title": "前妻，跟我回家",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "寸雪无心",
+            "commentNumber": 159,
+            "coverPic": "http://img60.ddimg.cn/digital/product/87/6/1960118706_ii_cover.jpg?version=a37794cd-015a-4b3a-b6bf-87644887265c",
+            "desc": "据说，她是南星国名扬万里的小小女神医，是某风流掌门的第一百零八个特别女人，是那断袖绝情冷男的准新娘，更是某出尘男子痴恋三年的心上妻，是那俊俏王爷青梅竹马的不二王妃……其实，她只是个彻头彻尾的女庸医，一个被自己内火轰死的穿越小女子。",
+            "mediaId": 1960118706,
+            "mediaType": 1,
+            "productDetailUrl": "./1980152210.html",
+            "saleId": 1980152210,
+            "star": 5,
+            "title": "邪门女庸医",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "毒药糖糖",
+            "commentNumber": 206,
+            "coverPic": "http://img62.ddimg.cn/digital/product/53/42/1960155342_ii_cover.jpg?version=1cdbf92d-5484-4c20-b382-c7c8325a1682",
+            "desc": "重生异世，居然被人活埋，埋她的，居然还是个小和尚？小和尚这么萌，百里灵忍不住勾勾唇：小和尚，来香一个如何？姐姐一定会轻轻的，最疼你哦！须不知，小和尚人小心不小，再待他时，一日长成，帝焚嘴角微勾：小灵儿，来香一个如何？哥哥一定会轻轻的，只疼你哦！百里灵大呼走眼！看魔皇如何宠妻无度，看废材如何逆袭，争霸天下！",
+            "mediaId": 1960155342,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188846.html",
+            "promotionId": 0,
+            "saleId": 1980188846,
+            "star": 5,
+            "title": "毒妃妖娆：魔皇，轻点撩！",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "阿姽",
+            "commentNumber": 194,
+            "coverPic": "http://img61.ddimg.cn/digital/product/50/37/1960155037_ii_cover.jpg?version=4450dfb9-36a3-4cf0-b057-9574df278580",
+            "desc": "身为大殷朝第一长公主，雒妃肤白貌美，大胸蜂腰细长腿，关键她还洁身自好不养面首。然，驸马还是给了她当胸一剑，送她去死！死了一死的雒妃怒了，重生到与驸马的洞房花烛夜——她当场将人踹下床榻，并道，“驸马床榻功夫浅薄，来人，给本宫送十个八个俊俏儿郎进来！”果然，作为公主，养面首才是正道！不想造反的驸马不是好驸马！于是，驸马秦寿孜孜不倦的在造反大业上汲汲营营。但是谁来告诉他，他的谋士什么时候做了公主的裙下之臣？还有他的幕僚，怎么就成了公主的入幕之宾，比他还受待见？连他从不正眼瞧的庶弟，居然也腼腆笑着对他说——“兄长，弟弟如今也是公主的人了……”说好的忠心不二呢？说好的共谋大业呢？说好的一辈子兄友弟恭呢？家里有这样嫌他活不好、养面首、抢他人、夺他权的公主，再不造反，这日子根本没法过了！——————————————————————————————————雒妃公主：本宫天下第一美！驸马：本驸马天下第一帅！雒妃公主：本宫勾勾手指，面首就前仆后继扑上来。驸马：本驸马一跺脚，大殷江山都要抖一抖，弄死个面首，不需要动手。雒妃公主：呸！不可与禽兽而语。驸马：无妨，上了榻不必多语。",
+            "mediaId": 1960155037,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188541.html",
+            "saleId": 1980188541,
+            "star": 5,
+            "title": "桃花妆",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "沉香",
+            "commentNumber": 117,
+            "coverPic": "http://img61.ddimg.cn/digital/product/30/2/1960143002_ii_cover.jpg?version=b4bb00dc-9ab9-4b4c-9143-62c1e55d9787",
+            "desc": "“宁为孤魂野鬼，哪怕魂飞魄散，妾妇也不愿轮回转世，定要苍天还我公道”阴森冰冷的地府，怨气冲天的女鬼意志坚决。阎王怜悯，以移魂之术令她重返阳间，附身丫鬟之身。这一次，她以丫鬟之身，再入家门，步步为营，查探当年她冤死的真相，引得二男争夺，翻身为主……",
+            "mediaId": 1960143002,
+            "mediaType": 1,
+            "productDetailUrl": "./1980176506.html",
+            "saleId": 1980176506,
+            "star": 5,
+            "title": "替身不乖：邪夫擒妻",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newVpPotentialRedMedias": [
+        {
+            "authorPenname": "木嬴",
+            "commentNumber": 4,
+            "coverPic": "http://img61.ddimg.cn/digital/product/34/66/1960113466_ii_cover.jpg?version=6e9e0754-d8a9-40be-bab0-a07ef11763b8",
+            "desc": "　　重生一世，她不再是那个温和纯善，安分愚孝的四姑娘。 　　阴谋诡计？争权斗宠？样样信手拈来！ 　　守护好至亲，冷眼看继母嫡妹作死。 　　至于那个让她见了就绕道走的男子。 　　她已经绕道了，怎么还碰到了！ 　　你问我为什么绕道？ 　　我会告诉你这是上辈子绕着绕着养成的不良恶习？ 　　谦让是美德！ 　　PS：新书《世嫁》已上传……",
+            "mediaId": 1960113466,
+            "mediaType": 1,
+            "productDetailUrl": "./1980146970.html",
+            "saleId": 1980146970,
+            "star": 5,
+            "title": "嫁嫡",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "柒惜",
+            "commentNumber": 43,
+            "coverPic": "http://img61.ddimg.cn/digital/product/90/78/1960089078_ii_cover.jpg?version=d3a28884-aa1b-402b-b161-4badcc7b3952",
+            "desc": "被人设计，她误闯进了他的房间。一夜纠缠，他却在食髓知味后霸着她不肯放开。看见她精神不好，他说，“最近锻炼太少？今晚，我们回房继续！”看见她和别的男人走得过近，他说，“这几天我没满足你，需要你去找别人？”回去之后，360度继续。斗智斗勇的婚路上，她屡战屡败。忍无可忍，她怒了，“洛易北，男人不能老是靠力气征服女人！”“哦？是吗？”他一脸不以为然，一个翻身，两人的位置对调，“我不介意把出力这种事交给你！”",
+            "mediaId": 1960089078,
+            "mediaType": 1,
+            "productDetailUrl": "./1980122582.html",
+            "saleId": 1980122582,
+            "star": 5,
+            "title": "首席老公霸道宠：宝贝，继续",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "封央",
+            "commentNumber": 103,
+            "coverPic": "http://img62.ddimg.cn/digital/product/44/41/1960154441_ii_cover.jpg?version=bc0317e2-7233-4a8f-8a38-27a9588166c1",
+            "desc": "（绝宠文）母亲结婚当晚，她被继父的儿子给上了。青涩稚嫩的女儿身在他身下绽放，被他认真的观赏着，放肆的亵玩着，羞得她情难自禁。　　他是权势滔天的帝国总裁，强势霸道，狂妄不可一世。性情高冷禁欲的他，一时兴起将她禁锢在身边，渐渐地护她成了习惯，宠她成了执念，深入骨血的痴恋让她逃无可逃。　　他说：“我允许你任性，但你必须在我允许的范围内任性。当初你把自己当生日礼物送给我了，这辈子你就是我的！从头到脚都是我的！一根头发丝也是我！”【1V1，身心干净，无小三无误会，绝对宠文！】（没有群，想私下与某央交流，可移步新浪微博：封央fy）",
+            "mediaId": 1960154441,
+            "mediaType": 1,
+            "productDetailUrl": "./1980187945.html",
+            "saleId": 1980187945,
+            "star": 5,
+            "title": "总裁大人，宠妻太嚣张！",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "囧囧有妖",
+            "commentNumber": 565,
+            "coverPic": "http://img62.ddimg.cn/digital/product/45/95/1960154595_ii_cover.jpg?version=fcb574fc-9353-404a-88a9-9965cd999a5e",
+            "desc": "“你救了我，我让我爹地以身相许！”宁夕意外救了只小包子，结果被附赠了一只大包子。婚后，陆霆骁宠妻如命千依百顺，虐起狗来连亲儿子都不放过。“老板，公司真给夫人拿去玩？难道夫人要卖公司您也不管？”“卖你家公司了？”“大少爷，不好了！夫人说要把屋顶掀了！”“还不去帮夫人扶梯子。”“粑粑，谢谢你给小宝买的大熊！”“那是买给你妈妈的。”“老公，这个剧本我特别喜欢，只是床戏有点多，我可以接吗？”陆霆骁神色淡定：“可以。”当天晚上，宁夕扶着腰连滚带爬逃下床。陆霆骁！可以你大爷！！！【双洁欢脱甜宠文】【新浪微博ID：囧囧有妖的围脖】",
+            "mediaId": 1960154595,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188099.html",
+            "saleId": 1980188099,
+            "star": 5,
+            "title": "隐婚100分：惹火娇妻嫁一送一",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "微扬",
+            "commentNumber": 3,
+            "coverPic": "http://img60.ddimg.cn/digital/product/90/44/1960089044_ii_cover.jpg?version=aa5e2efe-57e2-46f9-ad89-7fb58e121e72",
+            "desc": "她深藏心思淡定的守在他的身边，那天他终于怒了，把她灌醉抵到墙角玩壁咚，“笨女人，我看你有多能忍。”次日醒来，她懊恼自责：“真该死，竟然醉了，都不知道什么感觉。”耳边忽然传来男人慵懒的声音：“你说好棒！”“……”温栩栩眼里，言如生是最霸道的同桌，最腹黑毒舌的上司，婚后变成最缠人的老公，最无耻的爸爸。小包子：“爸爸今晚我要跟你们睡一起。”言先生：“听说最新版的变形金刚又出了。”小包子：“噢，爸爸妈妈我回房了。”（青梅竹马，男女主身心干净。）",
+            "mediaId": 1960089044,
+            "mediaType": 1,
+            "productDetailUrl": "./1980122548.html",
+            "saleId": 1980122548,
+            "star": 5,
+            "title": "最强宠婚：腹黑老公傲娇萌妻",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newVpRecommendMedias": [
+        {
+            "authorPenname": "梵缺",
+            "commentNumber": 472,
+            "coverPic": "http://img61.ddimg.cn/digital/product/83/58/1960088358_ii_cover.jpg?version=58433c9f-feac-4bc8-a9bd-6e58e2fd8797",
+            "desc": "本书为网络热剧《双世宠妃》原著。梁洁、邢昭林领衔主演。某爷挑眉说：“本王说一，你就不能答二。”“是。”那她答三便是了，也不麻烦。“本王要你向东，你不能向西。”“是。”她再温顺点头，不能向东和向西，那向南北也不错，问题不大。“本王不准你去找别的男人。”“是！”她更加肯定点头。从不找男人，一般只有找上门……【PS：本书简体出版书名《第一风华》】",
+            "mediaId": 1960088358,
+            "mediaType": 1,
+            "productDetailUrl": "./1980121862.html",
+            "saleId": 1980121862,
+            "star": 5,
+            "title": "双世宠妃原著：爷我等你休妻",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "月初姣姣",
+            "commentNumber": 5,
+            "coverPic": "http://img61.ddimg.cn/digital/product/28/72/1960172872_ii_cover.jpg?version=026cd499-492a-47e1-abe5-078f663a95fd",
+            "desc": "　　【毒舌傲慢女医生vs流氓腹黑男军痞，宠文无虐，大家放心跳坑】　　临城最神秘低调燕公子，某军区最有名的军痞，顶着一张人神共愤的脸，端着一副高冷禁欲的皮相，有着世家公子固有的倨傲冷漠，某人评价：“衣冠禽兽，人面兽心。”　　临城姜家二小姐，知名心理咨询师，生得端庄貌美，温柔贤惠，知书达理，有着大家小姐的傲慢矜持，某人评价：“心胸狭窄，表里不一！”　　姜熹只是帮人去部队做个心理学讲座，没想到就被人赤裸裸的当众调戏了。　　“姜医生，你好。”　　“姓名、性别、年龄、爱好。”姜熹头也不抬，默默拿出一张表格，准备登记。　　“燕殊，男，27，爱好女。”姜熹手一顿。　　某人单手撑着下巴，笑得意味深长，“姜医生，如果你不信，我要求脱裤子检查。”　　众人大笑，姜熹脸一红，这个人怎么这般无耻。　　“请认真回答我的问题，你的爱好。”　　“爱好女！姜医生，我很认真。”简直是流氓啊，这人还能要点脸么！　　“你有病么！”姜熹咬牙。　　“姜医生，我对你一见钟情，害了相思病，这是病么！”　　“你这是眼睛有问题！”姜熹咬牙，这厮绝对是来找茬的！“你如果没事就请下一位。”　　“姜医生，我觉得我们需要深入交流！”　　“呵——你是故意来搞事的吧，信不信我剁了你喂池塘里的小锦鲤！”　　【独处篇】　　“姜熹，作为一个心理医生，你觉得我是个怎么样的男人？”　　姜熹只是淡淡瞥了一眼，“刻薄、毒舌、自大、傲慢……”　　“有好的评价么！”某人咬牙。　　“皮相不错。”　　“够诱惑你么！”　　“不好意思，本小姐不喜欢这种牛郎的长相。”姜熹勾起燕殊的下巴。　　燕殊抓狂！去你妹的牛郎！姜熹抿嘴一笑，踮脚吻住他的薄唇，某人立刻反客为主，以后说不过就直接上，不信办不了她。　　【萌宝篇】　　“妈咪，爹地说你是轰炸机。”某宝捧着模型飞机。　　“为什么。”　　“所到之处寸草不生。”　　姜熹嘴角一抽，“那他就是流氓中的战斗机！无耻之极！”　　某宝抿嘴一乐，“妈咪的评价果然精辟！”　　燕殊无语望天，其实他挺正人君子的……　　简介无能，内容绝对精彩，暖心暖肺暖身的暖文，欢迎跳坑……",
+            "mediaId": 1960172872,
+            "mediaType": 1,
+            "productDetailUrl": "./1980206376.html",
+            "saleId": 1980206376,
+            "star": 5,
+            "title": "军门蜜爱之娇妻难驯",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "脂艳斋",
+            "commentNumber": 0,
+            "coverPic": "http://img62.ddimg.cn/digital/product/70/74/1960167074_ii_cover.jpg?version=c05563b5-af31-4fad-bbdd-1a793773dba8",
+            "desc": "爱，深爱；宠，绝宠！我爱你，便绝不狠心伤你分毫……梁羽航题【唯美版】小时候她只得罪过他一次，长大就赔上了一辈子。白天她只说错了一句，晚上就被做了一百次。她只朝他走了一小步，他就替她走完了剩下的几万里。下雪了，如果我们不撑伞，一直走下去，是不是可以一路到白头……【现实版】他绝对是她此生最大的梦靥！小时候经常被他捉弄欺负已经是她心头抹不去的阴影，她发誓，此生再也不要见到他不要听到梁羽航那三个字。两人再次相遇竟然是在军训操场上，她是学生，他是教官。他用各种借口和手段亲近她讨好她阻止她逃离，甚至不惜牺牲英俊的色相来引诱她。他迥于以往的温柔令她感动不已，原先单纯想击败他却演变为无法收拾的局面。一纸军婚，她终于心甘情愿的拿出了叔叔给的十个亿，却错愕心痛的发现，真相原来是如此不堪……死男人，敢骗我！于是她拍拍屁股带球跑……【精彩片段】某女身穿孕妇装，嘴里斜叼着根棒棒糖跟几个大学死党搓麻将，身后，男人围着黑白猪小围裙，两手举着搓衣板一副可怜兮兮的表情。“薇薇，你身后……”某女不屑的白了男人一眼：“没什么，床上用品而已！”梁羽航，你也有今天！男主腹黑干净，宠文，尽情的跳坑吧，跳跳更健康……",
+            "mediaId": 1960167074,
+            "mediaType": 1,
+            "productDetailUrl": "./1980200578.html",
+            "saleId": 1980200578,
+            "star": 0,
+            "title": "少将夫人带球跑",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "浮屠妖",
+            "commentNumber": 4,
+            "coverPic": "http://img62.ddimg.cn/digital/product/55/12/1960155512_ii_cover.jpg?version=b691ac9c-7252-47ef-8d4c-d71d65a05c03",
+            "desc": "四年，他从一无所有变身神秘财阀的继承人，荣耀归来。四年，她从豪门千金沦落成娱乐圈的小编剧，面临牢狱之灾。　　“夏长悦，你当年要是爱我比爱钱多一点，现在就不用跪着求我！”男人冷冷的讥讽。　　夏长悦狡黠一笑，抓出一个小包子塞他怀里，小包子抱着他，猛亲一口，“总裁，要买我妈咪咩？扮得了少女，演得了女王，玩得了小清新，咽得下重口味，专业生产小天才，一千万美金带回家！”　　严承池错愕的盯着眼前跟他如出一辙的小脸，咬牙：“成交，再加一千万，连你一起买了！”　　下一秒，小公主从门后探出小脑袋，“爹地，这里还要一千万。”",
+            "mediaId": 1960155512,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189016.html",
+            "saleId": 1980189016,
+            "star": 5,
+            "title": "绯闻萌妻：腹黑老公，头条见",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "宸萌",
+            "commentNumber": 4,
+            "coverPic": "http://img60.ddimg.cn/digital/product/82/47/1960088247_ii_cover.jpg?version=c1aa7380-5fe0-46d3-8a16-e96f87dd2876",
+            "desc": "前世自己不争气，受人欺骗，男友背叛，继姐算计，导致枉死如今重生，她发誓要让害她的人都付出代价校园做学霸，在家斗极品、没事虐渣男，有事赚钱玩护妈妈斗小三，带众弟奔小康……学渣债见，学霸你好，男神你行行好，我亚历山大！！！有坑品，已完结《镇守人间界》《废柴逆袭战：女神归来》……读者群：63610016",
+            "mediaId": 1960088247,
+            "mediaType": 1,
+            "productDetailUrl": "./1980121751.html",
+            "saleId": 1980121751,
+            "star": 5,
+            "title": "重生之学霸千金",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "newYcNpRollBlocks": [
+        {
+            "code": "1980130952",
+            "coverPic": "http://img62.ddimg.cn/ww/9/18/xdf.jpg",
+            "title": "毒妃",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980177144",
+            "coverPic": "http://img61.ddimg.cn/ww/9/18/hsbz.jpg",
+            "title": "黄沙百战",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980209958",
+            "coverPic": "http://img62.ddimg.cn/ww/9/18/ms.jpg\t",
+            "title": "冥少，请下套",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980147659",
+            "coverPic": "http://img63.ddimg.cn/ww/9/18/zsb.jpg",
+            "title": "战神变",
+            "type": "detail",
+            "url": ""
+        }
+    ],
+    "npCommentMedias": [
+        {
+            "authorPenname": "鱼人二代",
+            "commentNumber": 44,
+            "coverPic": "http://img60.ddimg.cn/digital/product/72/84/1960107284_ii_cover.jpg?version=e138e1af-f9c7-4916-8272-347882c96441",
+            "desc": "　　一个大山里走出来的绝世高手，一块能预知未来的神秘玉佩……　　林逸是一名普通学生，不过，他还身负另外一个重任，那就是追校花！而且还是奉校花老爸之命！　　虽然林逸很不想跟这位难伺候的大小姐打交道，但是长辈之命难违抗，他不得不千里迢迢的转学到了松山市，给大小姐鞍前马后的当跟班……于是，史上最牛的跟班出现了——大小姐的贴身高手！　　",
+            "mediaId": 1960107284,
+            "mediaType": 1,
+            "productDetailUrl": "./1980140788.html",
+            "saleId": 1980140788,
+            "star": 5,
+            "title": "校花的贴身高手",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "楚冥山人",
+            "commentNumber": 3,
+            "coverPic": "http://img62.ddimg.cn/digital/product/46/18/1960154618_ii_cover.jpg?version=b1a36ed0-5b82-4fa3-aacc-59ae8ea31cf9",
+            "desc": "从有记忆以来，每当我走进和宗教有关的地方，我就会不由自主的害怕，吓得赶紧退出来。 长大了一些以后，我一直以无神论安慰我自己，那一切只是假的，可是直到那天晚上，一群诡异的黑袍人，把我带进新的世界。 易者，日月之替也，眼者，目也，仰以观天文，俯以察地理。名曰易眼",
+            "mediaId": 1960154618,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188122.html",
+            "saleId": 1980188122,
+            "star": 5,
+            "title": "易眼",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "烟雨独醉",
+            "commentNumber": 193,
+            "coverPic": "http://img60.ddimg.cn/digital/product/54/98/1960155498_ii_cover.jpg?version=f83d70cf-9c8b-40aa-a981-76d749ba13a1",
+            "desc": "当爱情的曙光在我面前慢慢消失时，当生活的希望在我的世界里逐渐暗淡时，她的出现宛若一盏明灯照亮了我的前路……终于有一天我发现原来爱就在身边，原来她就是我生命中那朵绚丽无比的心灵圣花……",
+            "mediaId": 1960155498,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189002.html",
+            "promotionId": 0,
+            "saleId": 1980189002,
+            "star": 5,
+            "title": "我的清纯女朋友",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "天天就会做梦",
+            "commentNumber": 3,
+            "coverPic": "http://img61.ddimg.cn/digital/product/45/5/1960174505_ii_cover.jpg?version=166edcbe-c72b-4f3c-8dc4-8b2c765cedb7",
+            "desc": "章伟一觉醒来发现已经不在熟悉的地球了，眼前是一款叫做王者荣耀的游戏。 而他则化身李白进行一场场无谓的战斗。 猎杀者？英雄联盟觉醒英雄？中微子？人工智能？长生不老？ 处于漩涡中心的章伟该何去何从他不知道，不过他知道的是: 从此，以往的生活崩溃了，现在，是新的开始。 这里有的不仅仅是游戏，还有我们的未来！ QQ聊天交友群245434308",
+            "mediaId": 1960174505,
+            "mediaType": 1,
+            "productDetailUrl": "./1980208009.html",
+            "promotionId": 0,
+            "saleId": 1980208009,
+            "star": 5,
+            "title": "王者荣耀李白传说",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "李幼谦",
+            "commentNumber": 20,
+            "coverPic": "http://img61.ddimg.cn/digital/product/10/86/1960181086_ii_cover.jpg?version=cbb41d02-034d-4465-94d2-deec00d8b2bb",
+            "desc": "真小子、假小子，锅铲锅盖当法器，修行就是多读书，破除阴谋斗天地……",
+            "mediaId": 1960181086,
+            "mediaType": 1,
+            "productDetailUrl": "./1980214591.html",
+            "saleId": 1980214591,
+            "star": 5,
+            "title": "小子大任",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "白泠非",
+            "commentNumber": 19,
+            "coverPic": "http://img61.ddimg.cn/digital/product/97/58/1960159758_ii_cover.jpg?version=09c695c1-1d69-4e3c-84ad-e32b4a499cec",
+            "desc": "我们都生活在同一个城市中，做着相同的梦，只想牵着彼此的手安静与温馨的老去在某个村庄里，可命运却让我的梦越来越模糊不清……",
+            "mediaId": 1960159758,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193262.html",
+            "saleId": 1980193262,
+            "star": 5,
+            "title": "命运的城",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "伊秋枫",
+            "commentNumber": 1858,
+            "coverPic": "http://img60.ddimg.cn/digital/product/20/89/1960072089_ii_cover.jpg?version=2fe38ba8-04ac-4d27-9f35-e472bba7ddda",
+            "desc": "薛辰带着一纸婚约，一头扎进繁华都市，红粉佳人，各方势力纷纷涌现！",
+            "mediaId": 1960072089,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105594.html",
+            "saleId": 1980105594,
+            "star": 5,
+            "title": "女神的妖孽保镖",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "北风南风",
+            "commentNumber": 110,
+            "coverPic": "http://img62.ddimg.cn/digital/product/29/85/1960182985_ii_cover.jpg?version=ef3f96e3-a11a-478a-bcad-05c6c755978b",
+            "desc": "如果我有个世界？哪有这种好事？不？有！当沈慎能进入一个类似《我的世界》游戏的方块世界，这个世界的所有资源都能为我所用！我还能加入各种模组！优秀的生长工艺，请叫我农场主大人；宏大的工业模组，开创我的工业革命；神秘的魔法模组，再搞事送你一个暴风雪！喂！把枪械模组放下！那东西是管制品！（欢迎加入书友群：我们的方块世界，群号“464299158”）",
+            "mediaId": 1960182985,
+            "mediaType": 1,
+            "productDetailUrl": "./1980216536.html",
+            "saleId": 1980216536,
+            "star": 5,
+            "title": "我的世界之方块万岁",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "猫腻",
+            "commentNumber": 749,
+            "coverPic": "http://img62.ddimg.cn/digital/product/55/67/1960095567_ii_cover.jpg?version=ce27da4b-e388-4b29-867d-5030a86ff707",
+            "desc": "\"讲述了十四岁的少年孤儿陈长生为改变自身命理，求一线生机，怀揣一纸婚约入帝都，与各方强者周旋成长的故事。命里有时终须有，命里无时要强求。  　　这是一个长生果的故事。  三千世界，满天神魔，手握道卷，掌天下天上一应事。  太始元年，有神石自太空飞来，分散落在人间，其中落在东土大陆的神石，上面镌刻着奇怪的图腾，人因观其图腾而悟道，后立国教。  数千年后，十四岁的少年孤儿陈长生，为成神隐逆天改命，进京都，入国教，顺心意。然而，他要改变的却远远不止自己的命数，万千子民的未来亦在其手中。\"",
+            "mediaId": 1960095567,
+            "mediaType": 1,
+            "productDetailUrl": "./1980129071.html",
+            "saleId": 1980129071,
+            "star": 5,
+            "title": "择天记",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "素闻陌上花开",
+            "commentNumber": 1537,
+            "coverPic": "http://img61.ddimg.cn/digital/product/19/92/1960071992_ii_cover.jpg?version=3b2d11d0-2dff-46cd-9333-bce2a0f53cdf",
+            "desc": "喧嚣城市外有处老屋子，我曾抱怨冰冷，它却为我带来一位纯情女邻居……",
+            "mediaId": 1960071992,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105497.html",
+            "promotionId": 0,
+            "saleId": 1980105497,
+            "star": 5,
+            "title": "我的纯情女邻居",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "三两二钱",
+            "commentNumber": 341,
+            "coverPic": "http://img60.ddimg.cn/digital/product/19/3/1960071903_ii_cover.jpg?version=61720fb2-b639-443d-9658-dc21a087033c",
+            "desc": "风水先生临终前给我家找了一块风水宝地， 弊端却是三代内次子绝后……",
+            "mediaId": 1960071903,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105408.html",
+            "saleId": 1980105408,
+            "star": 5,
+            "title": "风水师的诅咒",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "常书欣",
+            "commentNumber": 1875,
+            "coverPic": "http://img62.ddimg.cn/digital/product/65/86/1960086586_ii_cover.jpg?version=121658e0-2d2f-4ac3-9729-58d9dab24f76",
+            "desc": "余罪（未删减版）已完结  警中有位前辈告诉我：慈不掌兵、善不从警。好人当不了警察，因为善良在作奸犯科的人看来，是一种可笑的懦弱。我很不幸，不是一个善良，也不是一个懦弱的人，那些千奇百怪的犯罪，形形色色的罪犯，成了我生活的一部分。我不得不像他们一样思考，不得不像他们一样行事，因为我无时无刻都在绞尽脑汁地想着，如何抓住他们。我叫余罪，我是刑警，这是我的故事，一个迷茫、困惑、冲动、激烈的故事………",
+            "mediaId": 1960086586,
+            "mediaType": 1,
+            "productDetailUrl": "./1980120090.html",
+            "saleId": 1980120090,
+            "star": 5,
+            "title": "余罪",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "余氏小生",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/88/28/1960108828_ii_cover.jpg?version=feebbc85-0906-4417-875a-9b093e19aea2",
+            "desc": "　　何为神？何为魔？何为最强种？唯有爱！唯有正义！唯有秩序！方能矗立于天地......　　",
+            "mediaId": 1960108828,
+            "mediaType": 1,
+            "productDetailUrl": "./1980142332.html",
+            "saleId": 1980142332,
+            "star": 0,
+            "title": "器灵无双",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "清蒸桂鱼",
+            "commentNumber": 2,
+            "coverPic": "http://img60.ddimg.cn/digital/product/69/98/1960176998_ii_cover.jpg?version=ffd86e4b-8475-4cb2-babb-022fdbdea937",
+            "desc": "天道无常，仙界屹立亿万年后，仙域动荡，五族离心，六界纷争，天崩地裂，揭开了仙魔大战的序幕！少年徐景天虽然出身卑微，却时刻不忘奋发图强，于机缘巧合下，进入梵天宗，而后历经生死，修道成仙，最终屹立仙界之巅，开辟了六界新的纪元！仙界混乱，他力转乾坤；魔界纷争，他斩妖除魔。六界之内，任他纵横！",
+            "mediaId": 1960176998,
+            "mediaType": 1,
+            "productDetailUrl": "./1980210502.html",
+            "promotionId": 0,
+            "saleId": 1980210502,
+            "star": 5,
+            "title": "六界仙帝",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "千斤顶",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/30/90/1960113090_ii_cover.jpg?version=032997d2-0646-4a0f-ab83-49a5e62cc446",
+            "desc": "　　无奈的来到了这个不堪回首的年代，迷茫的苏瑞不知道该如何面对这突如其来的这一切。他在挣扎迷茫中不断的徘徊，从小到大从未拿过真枪的他在战争渐渐的学会了杀人，学会了承担责任。这就是他，一个小人物的奋斗史。 　　新书上传，《我的老婆是土匪》，请大家继续支持阿顶！",
+            "mediaId": 1960113090,
+            "mediaType": 1,
+            "productDetailUrl": "./1980146594.html",
+            "saleId": 1980146594,
+            "star": 0,
+            "title": "我的民国生涯",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "一步临凡",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/73/29/1960167329_ii_cover.jpg?version=81139e8c-8723-48d2-ad0c-21f6bc5029b6",
+            "desc": "自从有一天，意外得到一家神奇的宠物商店后，李龙泽的生活，就完全被颠覆了。 什么？你还在用狼狗看家，獒犬炫富？ 格调太低了！ 金乌玉兔重明鸟，旅游出行好伴侣，龙凤麒麟混沌兽，看家护院好帮手！真的不来一只吗？ “其实，我真的只是一个宠物店主，麻烦来找上我，我也只有关门放宠物了，被虐也不能怪我吧，我能怎么办？我也很无奈呀！”李龙泽一脸无奈的摊手道。",
+            "mediaId": 1960167329,
+            "mediaType": 1,
+            "productDetailUrl": "./1980200833.html",
+            "saleId": 1980200833,
+            "star": 0,
+            "title": "位面宠物商",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "油炸包子",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/54/1/1960095401_ii_cover.jpg?version=9514b8cd-29d4-46ae-82fb-94a2898da142",
+            "desc": "　　新书已经上传，书名《莲花宝鉴》书号181086以下是新书内容简介　　《葵花宝典》大家都熟悉了，《莲花宝鉴》呢？　　欲练此功，必先自宫！这是《葵花宝典》　　若未成功，帮你自宫！这才是《莲花宝鉴》，　　这是一个关于童子功的故事，一个可怜的男人，被人强迫学了一套阴毒的功法，神功大成之前不得近女色，不然《莲花宝鉴》便会‘咔嚓’一声帮他自宫！！　　至于如何才算成功，这就要靠某位可怜的男人拼命去做善事，行善积德，积攒那么‘一点点’微不足道的仙家愿力。　　于是，我们的主角誓要拼搏奋斗，做遍天下善事，助尽世间之人。　　于是，他的仙家愿力每天都多了那么‘一点点’。　　于是，某个混蛋加三级的家伙，有了个‘天下第一善人’的绰号，就是半夜踹寡妇门，也会被人当作是在做善事的那种……　　……………………　　直通车在下面哦",
+            "mediaId": 1960095401,
+            "mediaType": 1,
+            "productDetailUrl": "./1980128905.html",
+            "saleId": 1980128905,
+            "star": 0,
+            "title": "异界兽医",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "版权来源：北京移动时空",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/8/43/1960080843_ii_cover.jpg?version=336010f3-a23d-4e63-b587-d24aa6802bfe",
+            "desc": "这是一个迷茫的世界，秩序混乱，多人在为非作歹。而林飞雁自从游历大陆之后，就开始扬善除恶，甚至他将大恶人击毙，对此林飞雁根本不在意，因为他有自己的目标，他要成为巅峰强者。这就是一个强者的一声。",
+            "mediaId": 1960080843,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114346.html",
+            "saleId": 1980114346,
+            "star": 0,
+            "title": "武圣",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "咖啡雪泡",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/4/56/1960110456_ii_cover.jpg?version=a2ec3f89-05f3-4a14-baa4-c05666038237",
+            "desc": "　　啥？创世神为争排名惹了大祸？　　啥？开发失败？万能降妖系统出现意外，只能变成降妖万花轮？　　你想长生不老吗？你想美女如云吗？你想身家过亿吗？请快快加入我们！　　一则广告让陈亮动心了，在梦中，凭借超人的反应能力抢到了唯一的名额。　　耶？不是梦？万花轮旋转！要法力，神器，仙丹，宝衣……　　人品暴跌的他，悲催地转出了一个最垃圾的技能加成——种田。　　种田也能降妖？啊？还附送新手礼包？美女器灵？泡妞宝典？　　且看我守株待兔，智斗妖魔，养成妖女，打造精品群妖俱乐部。　　俱乐部的名字？美女，请留步……　　留步俱乐部书友群：232640213　　新书求关爱，求点击、收藏、推荐，求各种摸……　　",
+            "mediaId": 1960110456,
+            "mediaType": 1,
+            "productDetailUrl": "./1980143960.html",
+            "saleId": 1980143960,
+            "star": 0,
+            "title": "美女请留步",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "炼语",
+            "commentNumber": 2,
+            "coverPic": "http://img62.ddimg.cn/digital/product/91/54/1960149154_ii_cover.jpg?version=d22cbd48-a35d-437b-a29a-b0f1334055ca",
+            "desc": "瓦尔斯特伦，被地下城养育了城市。这本书就是讲述了炼的一群人挑战地下城的故事——大概吧暑假期间每天4000+，推荐收藏多的话会加更。大家看了觉得不错的求个推荐呗。",
+            "mediaId": 1960149154,
+            "mediaType": 1,
+            "productDetailUrl": "./1980182658.html",
+            "saleId": 1980182658,
+            "star": 5,
+            "title": "期待在地下城相遇",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "npRecommendMedias": [
+        {
+            "authorPenname": "奋",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/23/20/1960072320_ii_cover.jpg?version=2e984c94-f91b-45a0-bb8b-036c26e56c0e",
+            "desc": "兵王闯花都，各色鲜花扑面而来……嗯，兄弟，你说到底先摘哪一朵呢？",
+            "mediaId": 1960072320,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105823.html",
+            "saleId": 1980105823,
+            "star": 0,
+            "title": "护身兵王闯花都",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "惟求得中",
+            "commentNumber": 1,
+            "coverPic": "http://img60.ddimg.cn/digital/product/56/26/1960155626_ii_cover.jpg?version=f502fb0e-6a01-4406-ba38-989da46862b1",
+            "desc": "英雄者，胸怀奇志，腹有良谋，有包藏宇宙之机,吞吐天地之志！《海贼王》同人，一个穿越者来到千帆竞渡，百舸争流的大海贼时代，不同于前世身处局外，当他亲自感受到大时代小人物的悲欢离合后，是该选择随波逐流无所作为，还是奋力抗争直视自己的野心？争霸流，一个男人从平凡到不平凡，从默默无闻到名动天下，从身无长物到万王之王的故事。书友群（摩根海贼团）：235948015　",
+            "mediaId": 1960155626,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189130.html",
+            "saleId": 1980189130,
+            "star": 5,
+            "title": "海贼法典",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "天佑",
+            "commentNumber": 1,
+            "coverPic": "http://img61.ddimg.cn/digital/product/65/28/1960116528_ii_cover.jpg?version=e7f68c80-694b-4200-8398-38ba9b541f4c",
+            "desc": "【热血爽文】喝最烈的酒，杀最恨的人，泡最美的妞。一句刻骨铭心的暗语，一张神秘美女的照片，隐退兵王，龙醒花都，重返军营，手握钢枪，赢得美人垂青。从狼牙到龙牙，他成就兵王之王，从雪山到草原，他所向披靡，他所率领的黄泉小队被称之为一群疯子的聚会，肆意践踏着来犯强敌。国虽大，好战必亡，天下安，忘战必危。（感谢阅文书评团提供书评支持！）",
+            "mediaId": 1960116528,
+            "mediaType": 1,
+            "productDetailUrl": "./1980150032.html",
+            "saleId": 1980150032,
+            "star": 5,
+            "title": "最强军魂",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "望天邀明月",
+            "commentNumber": 1,
+            "coverPic": "http://img60.ddimg.cn/digital/product/18/26/1960171826_ii_cover.jpg?version=1a775ae8-4a4f-41af-aaa4-1a03ad825d5c",
+            "desc": "辟邪剑谱，我练是不练？ 九阳真经，我偷是不偷？ 穿梭在武侠世界里，看我如携美傲群豪，仗剑成神话！",
+            "mediaId": 1960171826,
+            "mediaType": 1,
+            "productDetailUrl": "./1980205330.html",
+            "saleId": 1980205330,
+            "star": 5,
+            "title": "位面武侠神话",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "高月",
+            "commentNumber": 0,
+            "coverPic": "http://img62.ddimg.cn/digital/product/34/16/1960103416_ii_cover.jpg?version=3992f6bc-b285-41c3-8546-61e4e64eaba6",
+            "desc": "　　他，地位卑微的庶子，身世神秘的少年，十年商战的强者，淡泊名利的懒人。　　前世孑然一身，无所依傍；今生名门皇族，娇妻满堂。　　王朝风云，五龙夺嫡，朝堂争斗，诡异惊心，他一介懒人，又该何去何从？　　————————————　　起点历史写手高月自《大唐》《名门》《天下》后的又一精彩大作，高月五年不断更的人品保证，本书必然精彩依旧。",
+            "mediaId": 1960103416,
+            "mediaType": 1,
+            "productDetailUrl": "./1980136920.html",
+            "saleId": 1980136920,
+            "star": 0,
+            "title": "皇族",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "npRewardsMedias": [
+        {
+            "authorPenname": "边城一夫",
+            "commentNumber": 108,
+            "coverPic": "http://img62.ddimg.cn/digital/product/48/92/1960084892_ii_cover.jpg?version=8872b0b9-1e7c-4658-8989-ed2b342d76af",
+            "desc": "阴阳二界，一步之遥。所谓生死，眨眼之间。 二界之间，多少生死、多少纷争、多少罪恶？ 而我，一个茅山派弟子，奔波于两界，又是为了什么呢？ 大道任我行，阴阳归一体！无所畏，无所求，只为拯救危难，匡扶正义！ 来吧，邪恶，我与你决一死战！",
+            "mediaId": 1960084892,
+            "mediaType": 1,
+            "productDetailUrl": "./1980118396.html",
+            "saleId": 1980118396,
+            "star": 5,
+            "title": "阴阳无界",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "素闻陌上花开",
+            "commentNumber": 1537,
+            "coverPic": "http://img62.ddimg.cn/digital/product/19/92/1960071992_ii_cover.jpg?version=3b2d11d0-2dff-46cd-9333-bce2a0f53cdf",
+            "desc": "喧嚣城市外有处老屋子，我曾抱怨冰冷，它却为我带来一位纯情女邻居……",
+            "mediaId": 1960071992,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105497.html",
+            "promotionId": 0,
+            "saleId": 1980105497,
+            "star": 5,
+            "title": "我的纯情女邻居",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "李幼谦",
+            "commentNumber": 61,
+            "coverPic": "http://img60.ddimg.cn/digital/product/9/63/1960080963_ii_cover.jpg?version=f015f1a6-f2fa-4029-8287-1e55113df247",
+            "desc": "不穿越：真实地再现1938年长江沿岸的抗战史诗。真历史：国民党的主战场同样可歌可泣。不神话：正义与邪恶的较量触目惊心。真英雄：美国记者，教会医生，码头工人，游击队长……西行路上，与三教九流斗智斗勇；被毒蛇猛兽围追堵截；从枪林弹雨中死里逃生……",
+            "mediaId": 1960080963,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114466.html",
+            "saleId": 1980114466,
+            "star": 5,
+            "title": "血证",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "雨中尘世",
+            "commentNumber": 607,
+            "coverPic": "http://img62.ddimg.cn/digital/product/14/41/1960081441_ii_cover.jpg?version=879019d1-4546-458c-8777-cb3a4fc66bc5",
+            "desc": "月光下的我们相视而立，这究竟是太过真实的梦，还是太过虚幻的现实？ 是否大厦林立、霓虹缤纷的城市边缘，真的有个忘记了尘世纷扰的月光之城？ 皎洁的月光下，洗尽铅华的我们，能不能就那样简简单单地，牵手相拥……",
+            "mediaId": 1960081441,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114944.html",
+            "promotionId": 0,
+            "saleId": 1980114944,
+            "star": 5,
+            "title": "月光下的漂亮女人",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "梦知寒",
+            "commentNumber": 184,
+            "coverPic": "http://img62.ddimg.cn/digital/product/21/67/1960062167_ii_cover.jpg?version=7d5a80fb-5a81-4e01-9ff0-9bb58506d7df",
+            "desc": "圣战大陆百废待兴，天启时代降临！我手持神剑，踏入壮丽魔幻世界……",
+            "mediaId": 1960062167,
+            "mediaType": 1,
+            "productDetailUrl": "./1980061770.html",
+            "promotionId": 0,
+            "saleId": 1980061770,
+            "star": 5,
+            "title": "网游之黑暗剑神",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "苕面窝",
+            "commentNumber": 73,
+            "coverPic": "http://img62.ddimg.cn/digital/product/19/93/1960071993_ii_cover.jpg?version=d5406dc1-f403-486e-a786-12ea0c0db385",
+            "desc": "侦察兵李宪穿越到北宋末年，却发现大辽国已经完蛋，大宋危在旦夕……",
+            "mediaId": 1960071993,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105498.html",
+            "promotionId": 0,
+            "saleId": 1980105498,
+            "star": 5,
+            "title": "重建北宋",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "npSaleMedias": [
+        {
+            "authorPenname": "常书欣",
+            "commentNumber": 1875,
+            "coverPic": "http://img62.ddimg.cn/digital/product/65/86/1960086586_ii_cover.jpg?version=121658e0-2d2f-4ac3-9729-58d9dab24f76",
+            "desc": "余罪（未删减版）已完结  警中有位前辈告诉我：慈不掌兵、善不从警。好人当不了警察，因为善良在作奸犯科的人看来，是一种可笑的懦弱。我很不幸，不是一个善良，也不是一个懦弱的人，那些千奇百怪的犯罪，形形色色的罪犯，成了我生活的一部分。我不得不像他们一样思考，不得不像他们一样行事，因为我无时无刻都在绞尽脑汁地想着，如何抓住他们。我叫余罪，我是刑警，这是我的故事，一个迷茫、困惑、冲动、激烈的故事………",
+            "mediaId": 1960086586,
+            "mediaType": 1,
+            "productDetailUrl": "./1980120090.html",
+            "saleId": 1980120090,
+            "star": 5,
+            "title": "余罪",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "伊秋枫",
+            "commentNumber": 1858,
+            "coverPic": "http://img61.ddimg.cn/digital/product/20/89/1960072089_ii_cover.jpg?version=2fe38ba8-04ac-4d27-9f35-e472bba7ddda",
+            "desc": "薛辰带着一纸婚约，一头扎进繁华都市，红粉佳人，各方势力纷纷涌现！",
+            "mediaId": 1960072089,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105594.html",
+            "saleId": 1980105594,
+            "star": 5,
+            "title": "女神的妖孽保镖",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "天蚕土豆",
+            "commentNumber": 126,
+            "coverPic": "http://img62.ddimg.cn/digital/product/62/47/1960106247_ii_cover.jpg?version=ad9e940f-1f66-472c-94b3-c741a9873720",
+            "desc": "\"这里是属于斗气的世界，没有花俏艳丽的魔法，有的，仅仅是繁衍到巅峰的斗气！  萧炎，主人公，萧家历史上空前绝后的斗气修炼天才。4岁就开始修炼斗之气，10岁拥有了九段斗之气，11岁突破十段斗之气，一跃成为家族百年来最年轻的斗者。然而在12岁那年，他却“丧失”了修炼能力，只拥有三段斗之气。整整三年时间，家族冷落，旁人轻视，被未婚妻退婚……种种打击接踵而至。  就在他即将绝望的时候，一缕灵魂从他手上的戒指里浮现，一扇全新的大门在面前开启！萧炎重新成为家族年轻一辈中的佼佼者，受到众人的仰慕，他却不满足于此。为了一雪退婚带来的耻辱，萧炎来到了魔兽山脉，在药老的帮助下，进一步提升自己的修为。在魔兽山脉，他结识了小医仙，云芝（云岚宗宗主云韵）等人。他面向的世界更加宽广了。  三十年河东，三十年河西，莫欺少年穷！ 年仅15岁的萧家废物，于此地，立下了誓言，从今以后便一步步走向斗气大陆巅峰！\"  这里是属于斗气的世界，没有花俏艳丽的魔法，有的，仅仅是繁衍到巅峰的斗气！　　新书等级制度：斗者，斗师，大斗师，斗灵，斗王，斗皇，斗宗，斗尊，斗圣，斗帝。",
+            "mediaId": 1960106247,
+            "mediaType": 1,
+            "productDetailUrl": "./1980139751.html",
+            "saleId": 1980139751,
+            "star": 5,
+            "title": "斗破苍穹",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "超级大坦克科比",
+            "commentNumber": 18727,
+            "coverPic": "http://img60.ddimg.cn/digital/product/23/14/1960072314_ii_cover.jpg?version=0011ff34-b5d6-407c-a289-1b818b48f291",
+            "desc": "我们是郁金香路居民，终有一天，我叫她郁金香小姐，她叫我笆斗先生……",
+            "mediaId": 1960072314,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105819.html",
+            "saleId": 1980105819,
+            "star": 5,
+            "title": "我的郁金香小姐",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "唐家三少",
+            "commentNumber": 483,
+            "coverPic": "http://img62.ddimg.cn/digital/product/63/47/1960116347_ii_cover.jpg?version=0ba34204-502d-4794-a9ec-4dea6f3523cc",
+            "desc": "　　伴随着魂导科技的进步，斗罗大陆上的人类征服了海洋，又发现了两片大陆。魂兽也随着人类魂师的猎杀无度走向灭亡，沉睡无数年的魂兽之王在星斗大森林最后的净土苏醒，它要带领仅存的族人，向人类复仇！　　唐舞麟立志要成为一名强大的魂师，可当武魂觉醒时，苏醒的，却是……　　旷世之才，龙王之争，我们的龙王传说，将由此开始。　　",
+            "mediaId": 1960116347,
+            "mediaType": 1,
+            "productDetailUrl": "./1980149851.html",
+            "saleId": 1980149851,
+            "star": 5,
+            "title": "龙王传说",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "钓人的鱼",
+            "commentNumber": 25,
+            "coverPic": "http://img61.ddimg.cn/digital/product/92/74/1960109274_ii_cover.jpg?version=59556f07-5a48-41df-a200-1e9c5b4efcab",
+            "desc": "道，可以是一条路，也可以是一条法则； 正道，那就是正确的道路或者是正确的法则； 为人者，走错了道可以改回来，大不了从头再来； 为官者，踏出一步，就是一个脚印，对了，那是份内之事，错了，前面就是万丈深渊； 天若有情天亦老，人间正道是沧桑。",
+            "mediaId": 1960109274,
+            "mediaType": 1,
+            "productDetailUrl": "./1980142778.html",
+            "saleId": 1980142778,
+            "star": 5,
+            "title": "官梯(完整版)",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "npWeekRankMedias": [
+        {
+            "authorPenname": "刘慈欣",
+            "commentNumber": 44,
+            "coverPic": "http://img60.ddimg.cn/digital/product/20/41/1960072041_ii_cover.jpg?version=2595ae63-d5ee-4a11-afb0-86796e287233",
+            "desc": "文化如火如荼进行的同时，军方探寻外星文明的绝秘计划“红岸工程”取得了突破性进展。但在按下发射键的那一刻，历经劫难的叶文洁没有意识到，她彻底改变了人类的命运。地球文明向宇宙发出的第一声啼鸣，以太阳为中心，以光速向宇宙深处飞驰…… 四光年外，“三体文明”正苦苦挣扎——三颗无规则运行的太阳主导下的百余次毁灭与重生逼迫他们逃离母星。而恰在此时，他们接收到了地球发来的信息。在运用超技术锁死地球人的基础科学之后，三体人庞大的宇宙舰队开始向地球进发……人类的末日悄然来临。",
+            "mediaId": 1960072041,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105546.html",
+            "rewardCoins": 988,
+            "saleId": 1980105546,
+            "star": 5,
+            "title": "三体",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "钟梦龙",
+            "commentNumber": 7,
+            "coverPic": "http://img62.ddimg.cn/digital/product/9/36/1960180936_ii_cover.jpg?version=9fbc642a-681d-467b-93e2-9da39f954859",
+            "desc": "【兵中之王神枪技，临阵飞针太清功；花花世界藏奇迹，都市魅影锁威龙】修炼古武的特种兵王因一次任务失败被迫退役，无奈加入战友表妹的安保公司；本想安逸的做个安保，不料被卷入花都各派争斗中：为破惊天秘案和人间正义，他毅然再出山重拾兵王本色！然而武功高情商低的他在邂逅冰山女神和小魔女姐妹花后，却因缘际会成为她们的护花使者，开启了一段都市传奇旅程… 且看退伍兵王司空剑兵如何在花都拳打各路高手、征服冰山美人后登上人生巅峰：“那啥…我只是‘双娇姐妹’的私家保镖，各位美女大大为何也要我保护啊…那啥，你们别逼我翻牌选人啊！”",
+            "mediaId": 1960180936,
+            "mediaType": 1,
+            "productDetailUrl": "./1980214440.html",
+            "rewardCoins": 988,
+            "saleId": 1980214440,
+            "star": 5,
+            "title": "兵临花都守天娇",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "白泠非",
+            "commentNumber": 19,
+            "coverPic": "http://img60.ddimg.cn/digital/product/97/58/1960159758_ii_cover.jpg?version=09c695c1-1d69-4e3c-84ad-e32b4a499cec",
+            "desc": "我们都生活在同一个城市中，做着相同的梦，只想牵着彼此的手安静与温馨的老去在某个村庄里，可命运却让我的梦越来越模糊不清……",
+            "mediaId": 1960159758,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193262.html",
+            "rewardCoins": 588,
+            "saleId": 1980193262,
+            "star": 5,
+            "title": "命运的城",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "怀谷赋",
+            "commentNumber": 11,
+            "coverPic": "http://img60.ddimg.cn/digital/product/39/18/1960183918_ii_cover.jpg?version=030a2b1b-1a14-4888-bce0-ed28ec640b02",
+            "desc": "是什么原因让曾经的师徒反目成仇。 一次偶然的机遇，少年在一家濒临倒闭的道馆开启了跆拳道的生涯。两大道馆的斗争又酝酿着怎样的阴谋，侵入校园内部的黑暗又如何被层层揭开。少年又是如何在斗争中练就至刚跆拳，纵使伤横累累，也必勇往直前。",
+            "mediaId": 1960183918,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217529.html",
+            "rewardCoins": 200,
+            "saleId": 1980217529,
+            "star": 5,
+            "title": "至刚跆拳",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "伊秋枫",
+            "commentNumber": 19,
+            "coverPic": "http://img61.ddimg.cn/digital/product/39/24/1960183924_ii_cover.jpg?version=46fdc25e-8dc6-45df-b82e-4fb9b90cb467",
+            "desc": "回到都市的楚辞本欲平凡度日，谁知却遭遇未婚妻的逼婚。 逼婚？ 楚辞满脸懵逼，望着天仙般的未婚妻，无奈的说道：“我知道我长的帅，但我真不靠脸吃饭，你换个靠脸吃饭的祸害成吗？” 形形色色的美女不断涌入楚辞的生活，使得楚辞平静的生活彻底被打破，他的身份也开始慢慢显露…… （秋枫公众号：yiqiufeng111欢迎各位兄弟关注！）",
+            "mediaId": 1960183924,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217535.html",
+            "rewardCoins": 200,
+            "saleId": 1980217535,
+            "star": 5,
+            "title": "美女总裁的超级高手",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "花正幽",
+            "commentNumber": 5,
+            "coverPic": "http://img62.ddimg.cn/digital/product/50/98/1960165098_ii_cover.jpg?version=dd5220c5-ec2a-4897-8c7c-045223159362",
+            "desc": "　　天魔，修炼路上无论如何都绕不过去的一道坎。 　　是《修者死亡统计报告书》中，死因一栏的常客。 　　并且牢牢占据《死因统计》的榜首。 　　被认为是修者享受无尽生命时的第一天敌。 　　天魔，无形无迹，直指人心。 雪银声邀请！！！",
+            "mediaId": 1960165098,
+            "mediaType": 1,
+            "productDetailUrl": "./1980198602.html",
+            "rewardCoins": 188,
+            "saleId": 1980198602,
+            "star": 5,
+            "title": "唤魔路",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "忠情孝义",
+            "commentNumber": 15,
+            "coverPic": "http://img62.ddimg.cn/digital/product/58/23/1960155823_ii_cover.jpg?version=c2ac3b47-cc01-4a8c-9a79-b4d899ee6bde",
+            "desc": "我叫张翼，这些年，我经历过风雨，拿刀砍过人，体会过人世间的尔虞我诈，也拥有最纯真的青春美好。 从一个普通的混混，变到社会的古惑仔。 我爱过，恨过，曾经为了兄弟挨过刀子，为了女人抛弃一切。身边的人在不断地换，唯一不换的，是人间真情。 不停地有人离开，死去，坐牢，叛变，社会路充满鲜血艰辛，人心不再透明，枪口悄然打开，我的社会路随之开始... 官方唯一qq：1152360357（欢迎提出宝贵意见）",
+            "mediaId": 1960155823,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189327.html",
+            "rewardCoins": 100,
+            "saleId": 1980189327,
+            "star": 5,
+            "title": "蛊惑的青春",
+            "ycPrice": "免费"
+        }
+    ],
+    "nvPopFullMedias": [
+        {
+            "authorPenname": "又一春",
+            "commentNumber": 81,
+            "coverPic": "http://img62.ddimg.cn/digital/product/20/77/1960072077_ii_cover.jpg?version=c92614f3-05d0-4728-8b16-cc60b0df0a01",
+            "desc": "她穿越而来，凭百毒不侵之体和绝顶医术，誓要让曾经害她的人付出代价！",
+            "mediaId": 1960072077,
+            "mediaType": 1,
+            "productDetailUrl": "./1980105582.html",
+            "promotionId": 0,
+            "saleId": 1980105582,
+            "star": 5,
+            "title": "美人盛嫁",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "南音音",
+            "commentNumber": 170,
+            "coverPic": "http://img62.ddimg.cn/digital/product/16/93/1960091693_ii_cover.jpg?version=e1195031-643d-41e2-ad88-89da26c6be1d",
+            "desc": "什么？她孩子的爸居然是一国总统？所以……这真的不是自己在做梦么？",
+            "mediaId": 1960091693,
+            "mediaType": 1,
+            "productDetailUrl": "./1980125197.html",
+            "saleId": 1980125197,
+            "star": 5,
+            "title": "早安，总统大人！",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "米粒粒米",
+            "commentNumber": 10,
+            "coverPic": "http://img60.ddimg.cn/digital/product/57/82/1960155782_ii_cover.jpg?version=213fc41b-391f-4254-99e5-d857cf909f7e",
+            "desc": "他是江城神话——盛誉，零绯闻，无女友，被人揣测那方面能力不行。直到某天，高冷的禁欲帝来了个180度大转变。他说——“在这个世界上没有我盛誉得不到的东西，我要你，你就是我的！”“任何人在我这里都没有什么特别的，除了你。”“你只可以爱上我，其他的，你爱上谁，我废了谁。”“我可以给你所有的一切，无论你有多么恨我，我绝对不会跟你离婚。”“呵呵”她唇角上扬，目光凉凉地问，“一切？其中也包括你的命么？”他心里划过一抹凌厉的疼痛，“你想要，那就拿去吧。”然后一把左轮递到她面前。",
+            "mediaId": 1960155782,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189286.html",
+            "saleId": 1980189286,
+            "star": 5,
+            "title": "99度盛宠：总裁追妻不腿软",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "玖拾陆",
+            "commentNumber": 3,
+            "coverPic": "http://img61.ddimg.cn/digital/product/61/65/1960116165_ii_cover.jpg?version=d7b55aee-340f-4c7c-b77f-a7a08ca6eafe",
+            "desc": "　　一张张精致妆容背后，也许是一颗颗奸佞的心。　　穿越而来的楚维琳被古代理教压得喘不过气，在婆家举步维艰。　　绝望边缘，楚维琳不得不与虎谋皮，使得婆家分家、抄家，而自己也沦为弃子，红颜薄命。　　一睁眼重回幼年，她只愿平顺一生。　　只是，曾害了她的人，为何还不肯放过她？　　前世抗争，她又是做了谁的枪？　　这一次，她要亲手撕开那些优雅妆容，露出她们巧言伪善的真面目。　　－－－－－－－－－－－－－－－－－－－－－－－－－－－　　新书求呵护求养肥~~收藏票票都来吧~~　　新书友养肥途中可以先杀旧书~~",
+            "mediaId": 1960116165,
+            "mediaType": 1,
+            "productDetailUrl": "./1980149669.html",
+            "saleId": 1980149669,
+            "star": 5,
+            "title": "佞妆",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "尘神知秋",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/20/20/1960152020_ii_cover.jpg?version=9c976680-c220-45e9-93b0-997ca76b1ef7",
+            "desc": "抽风版简介：记者：请问季总第一次见到沈医生什么感觉？季黎：灭了她！记者：请问季总第二次见到沈医生什么感觉？季黎：睡了她！！记者：请问沈医生第一次见到季总是什么感觉？沈初：他肾不好！记者：请问您现在有什么想对季总说的？沈初：我错了，老公，我错了还不行么~文艺版简介：一出意外，让她从锦衣玉食的沈家大小姐，沦为名不见经传的泌尿科女医生。一招绯闻，让她鲤鱼跃龙门风光大嫁。从此，他对她的轻宠诱爱，举世无双。等到食髓知味，方知……生活，一半是回忆，一半是继续。终有一天，他走到她面前，四目相对之时，我们都知道，那不是相遇，而是归来……总而言之，这是一个让宝贝儿们欲罢不能的故事。简介无能，我是不会告诉你们，正文比简介精彩的。宝贝儿们赶紧跳坑吧，坑里等你们，么么~~",
+            "mediaId": 1960152020,
+            "mediaType": 1,
+            "productDetailUrl": "./1980185524.html",
+            "saleId": 1980185524,
+            "star": 0,
+            "title": "此情如初，故人未黎",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "nvpRecommendMedias": [
+        {
+            "authorPenname": "落花迷茫",
+            "commentNumber": 259,
+            "coverPic": "http://img62.ddimg.cn/digital/product/99/5/1960159905_ii_cover.jpg?version=b450db74-f85a-4290-86c7-9f80ff883cb8",
+            "desc": "现代黑道大姐大，一次灵魂穿越时空，化身不受宠的王府庶女……太子算什么？谁喜欢谁拿去，本小姐不稀罕，九五之尊的位置算什么？我照样抢了自己来……在这个险象环生的古代，看身为现代女的她，如何翻手为云覆手为雨…… 网编:素文",
+            "mediaId": 1960159905,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193409.html",
+            "saleId": 1980193409,
+            "star": 5,
+            "title": "穿越之庶女嫡妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "夜北",
+            "commentNumber": 58,
+            "coverPic": "http://img60.ddimg.cn/digital/product/13/90/1960091390_ii_cover.jpg?version=7d6be34c-a195-42c3-907f-e30130980b6c",
+            "desc": "银针在手，天下我有！天玄地宝尽在她手，绝世功法信手拈来。",
+            "mediaId": 1960091390,
+            "mediaType": 1,
+            "productDetailUrl": "./1980124894.html",
+            "saleId": 1980124894,
+            "star": 5,
+            "title": "绝世神医：腹黑大小姐",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "意迟迟",
+            "commentNumber": 6,
+            "coverPic": "http://img60.ddimg.cn/digital/product/49/21/1960154921_ii_cover.jpg?version=794f1c54-5d9e-48e7-bdc9-38b3a2c5907d",
+            "desc": "太微幼时被母亲抱去算命。算命的说她是长寿相，富贵命，会嫁个如意郎君，顺遂喜乐，儿孙满堂。然而她一生多舛，英年早逝……竟是没一句准的。她心想神棍就是神棍，除了骗钱什么也不会。可这一天，她睁开眼；却看见了过去……",
+            "mediaId": 1960154921,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188425.html",
+            "saleId": 1980188425,
+            "star": 5,
+            "title": "不二臣",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "叶幽幽",
+            "commentNumber": 2,
+            "coverPic": "http://img60.ddimg.cn/digital/product/3/10/1960170310_ii_cover.jpg?version=280816a4-52bc-4f90-9dcf-d6db45e833de",
+            "desc": "病入膏肓之时，被渣爹继妹绑架想要夺得她的遗产。再次醒来，重生在懦弱高一女生的身体里。竟然也有渣爹继妹，恶毒后妈。身携异能，断金识玉，赚钱的不亦乐乎。欺她，辱她，蔑她，她当如何？揍他，揍他，揍他丫的。世人皆传她脸皮之厚，抱上那隐世家族家主，神秘部队负责人，堪比神的人物粗大腿。懵逼脸的她看看那根主动伸到面前的大腿：“哪粗了？”他挑眉：“宝贝，你想哪粗就哪粗。”",
+            "mediaId": 1960170310,
+            "mediaType": 1,
+            "productDetailUrl": "./1980203814.html",
+            "saleId": 1980203814,
+            "star": 5,
+            "title": "重生异能商女：军少，别乱撩",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "千桃",
+            "commentNumber": 1,
+            "coverPic": "http://img61.ddimg.cn/digital/product/58/79/1960145879_ii_cover.jpg?version=e92b8e49-1e4a-4761-a195-a20f2dc877bb",
+            "desc": "“疼……”疼痛出乎她意料。男人的声音沙哑暗沉：“第一次？”千桃这辈子做的最大胆的事，就是算计了海城最权威的那个男人——厉珩之。结果聪明反被聪明误，成为了厉太太。是夜，被撕碎衣物的千桃仍负隅顽抗：“厉先生，合同婚姻，何必当真！”“海城第一名媛，我这五千万总要花得值当。”……小正太拉了拉千桃的衣角说：“有人让我转告你，你属于净身出户，偷走了我属于违约，他可以告你的，而你——没有胜算！”千桃两眼一眯，巧笑倩兮，“请你转告他，你不是他儿子。”“她说，我不是——”厉先生终于发飙：“那我也要定了！”“对不起厉先生，我们已经离婚了，钱货两讫。”……未建群，暂时只有新浪微博：千桃桃酱",
+            "mediaId": 1960145879,
+            "mediaType": 1,
+            "productDetailUrl": "./1980179383.html",
+            "saleId": 1980179383,
+            "star": 5,
+            "title": "Boss宠上瘾：娇妻，别闹！",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "popFullMedias": [
+        {
+            "authorPenname": "陈年老鬼",
+            "commentNumber": 15,
+            "coverPic": "http://img61.ddimg.cn/digital/product/59/76/1960065976_ii_cover.jpg?version=4f156e30-1614-49f8-8015-1fa31a19e2e1",
+            "desc": "冤死歌女阴魂栖身戏台，深山老林隐藏阴森义庄，现代都市的血腥青楼……",
+            "mediaId": 1960065976,
+            "mediaType": 1,
+            "productDetailUrl": "./1980099485.html",
+            "promotionId": 0,
+            "saleId": 1980099485,
+            "star": 5,
+            "title": "鬼影尸录",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "台灯下的节奏",
+            "commentNumber": 19,
+            "coverPic": "http://img62.ddimg.cn/digital/product/25/76/1960112576_ii_cover.jpg?version=3396e0e4-50ba-4886-b627-c9ebc6356016",
+            "desc": "　　当秦奋手机微信摇出了天庭朋友圈，他发现自己的人生变了，但天庭的变化更惊悚。　　想要金点子，行，拿东西来换，我不挑食。　　超市，串串香，等一系列熟悉的东西对原有的天庭造成了冲击。　　秦奋看着天庭的物产，发现自己似乎要发了。种田，数钱，好多事要做。　　我是先吃蟠桃呢，还是九转金丹。　　PS：内签已过，人品嘛，我很有节操可以吗？求点求收求票票，求包养一群（566830963），二群（366756421）已满，全订V群（513424835）",
+            "mediaId": 1960112576,
+            "mediaType": 1,
+            "productDetailUrl": "./1980146080.html",
+            "saleId": 1980146080,
+            "star": 5,
+            "title": "发个微信去天庭",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "纷舞妖姬",
+            "commentNumber": 17,
+            "coverPic": "http://img60.ddimg.cn/digital/product/36/38/1960093638_ii_cover.jpg?version=a9b770d5-4198-4bd0-8752-40394675935e",
+            "desc": "　　当过兵，站过岗，上过处女入过党。　　打过枪，玩过炮，还和拉登拍过照。　　走过南，闯过北，拉着死神跳过舞。　　挨过刀，中过弹，枕着鳄鱼睡过觉。　　翻过山，游过海，搂着死人嗥过歌。　　",
+            "mediaId": 1960093638,
+            "mediaType": 1,
+            "productDetailUrl": "./1980127142.html",
+            "saleId": 1980127142,
+            "star": 5,
+            "title": "弹痕",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "月下火",
+            "commentNumber": 4,
+            "coverPic": "http://img62.ddimg.cn/digital/product/65/2/1960116502_ii_cover.jpg?version=052d063b-ef9d-403b-8d79-ac90cdaef989",
+            "desc": "得到巅峰绝学，一代兵王不甘失败，回村图发，强势崛起。娇美村花，艳俏寡妇，极品老板娘，热辣女老师，清纯校花，迷人警花，冰山女总裁等等，全都要登堂入他室的时候，他真没得选择！他是小小的农民，勤劳致富，富通海内外，一不小心，排在五百强首位的企业，就是他的乡村集团。他，就是这么一个逆天的小农民！",
+            "mediaId": 1960116502,
+            "mediaType": 1,
+            "productDetailUrl": "./1980150006.html",
+            "saleId": 1980150006,
+            "star": 5,
+            "title": "逆天小农民",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "长耳朵的兔子",
+            "commentNumber": 1,
+            "coverPic": "http://img60.ddimg.cn/digital/product/34/35/1960083435_ii_cover.jpg?version=bf542d53-511c-401e-8c3c-64fcb724f0b1",
+            "desc": "我是一个黄河捞尸人，每天撑着船在黄河上飘着，有一天，我捞到了一个…",
+            "mediaId": 1960083435,
+            "mediaType": 1,
+            "productDetailUrl": "./1980116938.html",
+            "saleId": 1980116938,
+            "star": 5,
+            "title": "黄河捞尸人",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "potentialRedMedias": [
+        {
+            "authorPenname": "风凌天下",
+            "commentNumber": 0,
+            "coverPic": "http://img62.ddimg.cn/digital/product/42/27/1960184227_ii_cover.jpg?version=94c2c338-9264-46c0-912d-615c82e62bc6",
+            "desc": "药不成丹只是毒，人不成神终成灰。…………天道有缺，人间不平，红尘世外，魍魉横行；哀尔良善，怒尔不争；规则之外，吾来执行。布武天下，屠尽不平；手中有刀，心中有情；怀中美人，刀下奸雄；冷眼红尘，无憾今生。……惊天智谋，踏破国仇家恨；铁骨柔肠，演绎爱恨情仇；绝世神功，屠尽人间不平；丹心碧血，谱写兄弟千秋！",
+            "mediaId": 1960184227,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217846.html",
+            "saleId": 1980217846,
+            "star": 0,
+            "title": "我是至尊",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "秋风123",
+            "commentNumber": 1,
+            "coverPic": "http://img62.ddimg.cn/digital/product/47/29/1960104729_ii_cover.jpg?version=56cc3ad5-1f8a-4b76-a56e-477f15e0af26",
+            "desc": "超级兵王，铁血归来！生为华夏人，死为华夏魂！为情，碾压宵小！为爱，纵横都市！为国，浴血沙场！犯我中华者，虽远必诛！VIP群：277173664【只有付费读者可进，进群后截图粉丝值！】",
+            "mediaId": 1960104729,
+            "mediaType": 1,
+            "productDetailUrl": "./1980138233.html",
+            "saleId": 1980138233,
+            "star": 5,
+            "title": "终极高手",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "小声长谈",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/7/20/1960150720_ii_cover.jpg?version=1139d82e-d71f-438f-97ac-a3a780ac9c11",
+            "desc": "自小随师父学习茅山术的少年陈易，因上学从而踏入都市，因考古而历经离奇之事！煞尸孽债，神农鬼村，秦岭之谜，神秘的仙家，自古流传的民间传说是否真有其事？诸位道友可愿随陈易一起，去揭开这神秘莫测之谜，见识一番这不为人知，却又惊心动魄的人鬼阴阳之界！",
+            "mediaId": 1960150720,
+            "mediaType": 1,
+            "productDetailUrl": "./1980184224.html",
+            "saleId": 1980184224,
+            "star": 0,
+            "title": "茅山传人",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "荒凉记忆",
+            "commentNumber": 2,
+            "coverPic": "http://img60.ddimg.cn/digital/product/73/31/1960167331_ii_cover.jpg?version=86952153-0208-4342-9ee5-aa579fc3b5d1",
+            "desc": "【火热畅销】他是国之利器斩魂杀神，杀尽犯华夏者。 他是四神之一地狱邪神，战无不胜，天下无双，名号响彻世界。 他更是神龙体继承者，他杀过两个神，炎帝和阿波罗神，继承神位，至强无比，成为不可忽视强者。 他就是牧辰，女人的情圣，男人的恶梦，开启最强都市热血之路。……书友群611092872",
+            "mediaId": 1960167331,
+            "mediaType": 1,
+            "productDetailUrl": "./1980200835.html",
+            "saleId": 1980200835,
+            "star": 5,
+            "title": "我的绝色冰山总裁老婆",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "潘海根.",
+            "commentNumber": 1,
+            "coverPic": "http://img61.ddimg.cn/digital/product/33/55/1960083355_ii_cover.jpg?version=d5885369-e968-4c78-ba01-e2cdc222ac93",
+            "desc": "很多人认为扎出来的纸人纸马等物，只是卖与办丧事的人家，但到了晚上…",
+            "mediaId": 1960083355,
+            "mediaType": 1,
+            "productDetailUrl": "./1980116858.html",
+            "saleId": 1980116858,
+            "star": 5,
+            "title": "扎纸匠",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "qlxsMedias": [
+        {
+            "authorPenname": "七品",
+            "commentNumber": 6,
+            "coverPic": "http://img62.ddimg.cn/digital/product/63/46/1960096346_ii_cover.jpg?version=6b6a71ca-1382-432b-9f1f-fd496e8d42a5",
+            "desc": "【特种兵第一神书】战旗不倒，冲锋不止。我以我血卫国不殆，我以此生护家为战——单兵为王！  这是一篇彻头彻尾的战斗檄文，这是一篇独属于男人的热血军文。点开它，你会立刻上瘾，随我疯狂——文出七品，必属精品！",
+            "mediaId": 1960096346,
+            "mediaType": 1,
+            "productDetailUrl": "./1980129850.html",
+            "saleId": 1980129850,
+            "star": 5,
+            "title": "单兵为王",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "飞爷",
+            "commentNumber": 0,
+            "coverPic": "http://img62.ddimg.cn/digital/product/60/76/1960156076_ii_cover.jpg?version=092931d9-0c8f-4943-a303-b4d8580c7358",
+            "desc": "【聚焦巅峰火爆新书】他是世界闻名的巅峰杀手，却被家族逼婚，与美女总裁住在了一起。彼此看不顺眼却又不得不同居，萧凡决定回学校散散心，可是……你们都怎么了？我拿你们当朋友，你们却特么想上我！Q群：274213467欢迎来搞~",
+            "mediaId": 1960156076,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189580.html",
+            "saleId": 1980189580,
+            "star": 0,
+            "title": "我的绝美御姐老婆",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "萌萌僵甲子",
+            "commentNumber": 0,
+            "coverPic": "http://img62.ddimg.cn/digital/product/34/85/1960153485_ii_cover.jpg?version=2f69e5fa-dce0-44ec-b672-44fda47ee295",
+            "desc": "姐姐娇媚，少年很忙。神秘少年以绝强本领，征服万千美女，冷艳女总裁、霹雳霸王花、风骚老板娘、清纯小萝莉……随之而来的还有大堆麻烦。",
+            "mediaId": 1960153485,
+            "mediaType": 1,
+            "productDetailUrl": "./1980186989.html",
+            "saleId": 1980186989,
+            "star": 0,
+            "title": "都市极品小医仙",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "阿窝",
+            "commentNumber": 2,
+            "coverPic": "http://img62.ddimg.cn/digital/product/86/95/1960178695_ii_cover.jpg?version=b118f8b3-d9d3-4e5e-bc06-0bc6ab258bd6",
+            "desc": "九零后秦小雨穿越到了八零年的大西北。秦小雨很淡定，少吃少穿不重要，她有宠她的父母，迷妹哥哥姐姐，还有最大的金手指能听懂兽语，更有个罗叔叔和远方的他。父母：嗯，小女儿要娇宠。迷妹哥哥姐姐：我家妹妹什么都对。罗叔叔：你负责惹事，我负责背锅，这四九城就是我的地盘你的游乐场。你负责长大，我负责养成，顺便检测成长成效。他：不错，我就是传说中的神秘人！！群号：474502041",
+            "mediaId": 1960178695,
+            "mediaType": 1,
+            "productDetailUrl": "./1980212199.html",
+            "saleId": 1980212199,
+            "star": 5,
+            "title": "穿越八零之军妻养成计划",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "雨岩",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/59/20/1960155920_ii_cover.jpg?version=0eca159c-cf8f-45c1-ba32-576ad273ac8e",
+            "desc": "夏雨瞳从嫡出长女成为大少奶奶、主母、将军夫人、王妃、皇后、太后，一生走来，她都是丈夫华延钧深爱的正妻。 但是这条路并不那么顺，那些古代小三们，夏雨瞳已经准了你们妾侍的地位，竟还对夏雨瞳的正妻之位虎视眈眈，那就别怪夏雨瞳与你们攻心计了。谁让你们不自量力！",
+            "mediaId": 1960155920,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189424.html",
+            "saleId": 1980189424,
+            "star": 0,
+            "title": "正妻之位不可动",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "recommendMedias": [
+        {
+            "authorPenname": "乐乐神",
+            "commentNumber": 219,
+            "coverPic": "http://img60.ddimg.cn/digital/product/9/6/1960080906_ii_cover.jpg?version=f52c606a-3609-4e84-b889-d9f8970d0a3f",
+            "desc": "急需用钱应聘了一个背尸人的工作，却遭遇了一场突如其来的冥婚……",
+            "mediaId": 1960080906,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114409.html",
+            "promotionId": 0,
+            "saleId": 1980114409,
+            "star": 5,
+            "title": "阴阳通灵师",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "风凌天下",
+            "commentNumber": 8,
+            "coverPic": "http://img62.ddimg.cn/digital/product/40/16/1960114016_ii_cover.jpg?version=956a9b2b-07e7-4624-94c0-a68013472d5e",
+            "desc": "　　一笑风雷震，一怒沧海寒；一手破苍穹，一剑舞长天！　　一人一剑，傲世九重天！　　",
+            "mediaId": 1960114016,
+            "mediaType": 1,
+            "productDetailUrl": "./1980147520.html",
+            "saleId": 1980147520,
+            "star": 5,
+            "title": "傲世九重天",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "我吃西红柿",
+            "commentNumber": 7,
+            "coverPic": "http://img61.ddimg.cn/digital/product/25/93/1960112593_ii_cover.jpg?version=a74548c1-aac7-4f8f-9d61-67423fe166c4",
+            "desc": "　　　　深渊恶魔降临……　　异世界来客潜伏人间……　　神灵们在窥伺这座世界……　　然而，这是夏族统治的世界！夏族的强者们征战四方，巡守天地海洋，灭杀一切威胁！　　这群强者有一个共同的名字——超凡生命！　　……　　在夏族的安阳行省，有一个很小很不起眼的领地，叫——雪鹰领！　　故事，就从这里开始！　　　　继《莽荒纪》《吞噬星空》《九鼎记》《盘龙》《星辰变》《寸芒》《星峰传说》后，番茄的第八本小说！　　",
+            "mediaId": 1960112593,
+            "mediaType": 1,
+            "productDetailUrl": "./1980146097.html",
+            "saleId": 1980146097,
+            "star": 5,
+            "title": "雪鹰领主",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "暗夜行走",
+            "commentNumber": 7,
+            "coverPic": "http://img62.ddimg.cn/digital/product/73/45/1960097345_ii_cover.jpg?version=9173aaab-43e0-4ac1-b6f7-ca8285ff4ae2",
+            "desc": "洛天，华夏神秘军事部门的最强利刃，针对国内国际敌对势力进行了恐怖的打击，偶然一次意外，他失去了最好的兄弟，为了照顾好兄弟的亲人，他一个人来到了东昌市，谁知道兄弟的女人竟是夜总会的风情大美女，随后在一场地下势力的争斗当中，容姐被辱，洛天一怒为红颜……",
+            "mediaId": 1960097345,
+            "mediaType": 1,
+            "productDetailUrl": "./1980130849.html",
+            "saleId": 1980130849,
+            "star": 5,
+            "title": "逍遥兵王",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "宅猪",
+            "commentNumber": 9,
+            "coverPic": "http://img62.ddimg.cn/digital/product/57/87/1960115787_ii_cover.jpg?version=6c657a14-a270-4923-9389-8c736c8f505f",
+            "desc": "　　自盘古开天，三皇治世，五帝定伦，世界之间，人为天地灵长……　　此时正值三皇中的人皇末期，五帝未定，人族也不是天地灵长。　　这里是莽苍荒蛮的时代，妖神、邪神、天神，诸神林立，妖魔、邪魔、天魔，群魔乱舞；　　万族并存，野蛮生长，统治天下，而人皇已老，人族弱小，被当成祭牲和食粮……　　这不是洪荒，而是狂野奔放的蛮荒！　　回归中国古典神话，书写人族逆袭的蛮荒传奇，敬请阅读《人道至尊》！宅猪微信：zhaizhu2008，公众微信号：zhaizhu00",
+            "mediaId": 1960115787,
+            "mediaType": 1,
+            "productDetailUrl": "./1980149291.html",
+            "saleId": 1980149291,
+            "star": 5,
+            "title": "人道至尊",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "vpCommentMedias": [
+        {
+            "authorPenname": "冰蓝纱X",
+            "commentNumber": 58,
+            "coverPic": "http://img62.ddimg.cn/digital/product/86/0/1960178600_ii_cover.jpg?version=a7d85eff-0d20-409a-896d-cacd68200a1d",
+            "desc": "古装科幻电视剧《天泪传奇之凤凰无双》原著，由王丽坤、郑元畅等主演。        讲述北齐世家千金缪芊芊,举家被身为相国的夫君顾清鸿谋害,后被梁国睿王萧凤青所救,以聂无双名字重生的故事。        “相国大人有令，你要走出这相国府，就必须打掉腹中的孽种！”妖媚的女人端着一碗黑漆漆的汤药，红唇似血，一步步向她逼近。        她被休下堂，身无分文，流落街头，唯一的骨肉在出府之前的一碗汤药化成一滩血水。无颜回娘家，却第二天在刑场上看见自己的族人被满门抄斩，监斩的人却是她的夫君。刹那间，往昔所有的恩爱通通成了彻骨仇恨。        “顾清鸿！若我不死，当卷土重来，报满门血仇！”她对着那扇紧闭的朱漆大门冷冷发誓。暴雨中，她踉跄扑向一辆黑夜中疾驰来的黑色马车……",
+            "mediaId": 1960178600,
+            "mediaType": 1,
+            "productDetailUrl": "./1980212104.html",
+            "saleId": 1980212104,
+            "star": 5,
+            "title": "天泪传奇之凤凰无双",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "谁家娘子",
+            "commentNumber": 175,
+            "coverPic": "http://img62.ddimg.cn/digital/product/93/85/1960099385_ii_cover.jpg?version=6e05c86b-ff39-4069-893c-23d75ac5cd7e",
+            "desc": "当现黑道后裔穿到古代会如何？自是美男遍地随我……当然也有意外。 某女包袱款款悻悻然逃出军营，还没走几里路，便被数万大军团团围困。 男人环胸上前，森然道：“皇后这是作甚？” 女人不甘示弱，耸耸肩摊手道：“这就好比工作一样，这家干得不开心就换一家呗。” “皇后也能换？” “世上无难事，只怕有心人，让开。” 男人眸光一凌，揪住女子的衣襟凛冽道：“柳南湘，不妨告诉你，此生你只能是朕的人，死了也得朕亲手来埋，看来这段时间是太冷落你了，来人啊，带回朕的营帐。” 还敢给他红杏出墙，简直翻了天了。",
+            "mediaId": 1960099385,
+            "mediaType": 1,
+            "productDetailUrl": "./1980132889.html",
+            "saleId": 1980132889,
+            "star": 5,
+            "title": "一世荣宠：陛下皇后跳槽了",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "旖旎萌妃",
+            "commentNumber": 323,
+            "coverPic": "http://img61.ddimg.cn/digital/product/41/52/1960154152_ii_cover.jpg?version=785f21ca-f13c-46eb-b169-c42c0598e754",
+            "desc": "【本文已签约出版实体书，质量保证，欢迎进坑】【萌的隔云三部曲中的第三部温水煮婚姻出版名《婚不由己2》即将上市，欢迎围观】那一年，家庭破碎难堪的时候，他将离婚协议书甩给了她。她含笑接过早已预料到的协议书，对他说，“谢谢你这么多年的利用，终于让我明白了什么叫卑鄙小人！”一场事故，毁掉了他的心上人，也烧毁了所有的怨恨。从此，一条陌路，两个陌生人……她没人没钱，在行业里受尽欺凌之时，他高贵，儒雅，目不斜视的走过她的身边。好像从没认识过她“千金小姐果然不适合做这一行！”“这就是你做的计划书？你在浪费我们大家的时间！”“别用你那种高贵的眼神看着我，你以为你还是当初那个千金小姐？”千金大小姐？不，如果还是曾经的宋衍，怎么能忍受他这样的欺凌？她早已不是他的小娇妻，那个高贵又纯洁的千金小姐。“我不干了！”甩掉了他给的所有包袱，她终于选择退缩。但是他却暴怒的封闭了她所有的生活。林暮沉，你爱我吗？如果你爱我，为何却毫不犹豫的折断我所有的翅膀？如果你不爱我，为何又艰难的为我筑起一道保护的城墙？其实，她从不知道，他用那样一种高傲的方式，爱她爱到，低入尘埃…",
+            "mediaId": 1960154152,
+            "mediaType": 1,
+            "productDetailUrl": "./1980187656.html",
+            "saleId": 1980187656,
+            "star": 5,
+            "title": "前妻，跟我回家",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "寸雪无心",
+            "commentNumber": 159,
+            "coverPic": "http://img61.ddimg.cn/digital/product/87/6/1960118706_ii_cover.jpg?version=a37794cd-015a-4b3a-b6bf-87644887265c",
+            "desc": "据说，她是南星国名扬万里的小小女神医，是某风流掌门的第一百零八个特别女人，是那断袖绝情冷男的准新娘，更是某出尘男子痴恋三年的心上妻，是那俊俏王爷青梅竹马的不二王妃……其实，她只是个彻头彻尾的女庸医，一个被自己内火轰死的穿越小女子。",
+            "mediaId": 1960118706,
+            "mediaType": 1,
+            "productDetailUrl": "./1980152210.html",
+            "saleId": 1980152210,
+            "star": 5,
+            "title": "邪门女庸医",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "躲鱼猫",
+            "commentNumber": 750,
+            "coverPic": "http://img61.ddimg.cn/digital/product/34/64/1960183464_ii_cover.jpg?version=1369ab73-497e-4272-929f-7fa4b95ab7c5",
+            "desc": "分手四年后饭局间偶遇， 我旧情难忘嫁他为妻， 转眼他的小彩旗却挺着肚子上门耀武扬威。 我终落败而逃，才知道这个世界上最残酷的事实是：  重逢，不过是把浓情变厌倦的契机， 而这个世界上能赢的，多半是薄情的人。",
+            "mediaId": 1960183464,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217056.html",
+            "promotionId": 0,
+            "saleId": 1980217056,
+            "star": 5,
+            "title": "愿无深情可相守",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "苏小暖",
+            "commentNumber": 2569,
+            "coverPic": "http://img62.ddimg.cn/digital/product/67/27/1960106727_ii_cover.jpg?version=8849b891-c3c3-45ad-976e-d598e802b041",
+            "desc": "废柴四小姐遇上晋王殿下，且看强者之间上演一出追逐与被追逐的好戏。",
+            "mediaId": 1960106727,
+            "mediaType": 1,
+            "productDetailUrl": "./1980140231.html",
+            "saleId": 1980140231,
+            "star": 5,
+            "title": "邪王追妻：废材逆天小姐",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "毒药糖糖",
+            "commentNumber": 206,
+            "coverPic": "http://img61.ddimg.cn/digital/product/53/42/1960155342_ii_cover.jpg?version=1cdbf92d-5484-4c20-b382-c7c8325a1682",
+            "desc": "重生异世，居然被人活埋，埋她的，居然还是个小和尚？小和尚这么萌，百里灵忍不住勾勾唇：小和尚，来香一个如何？姐姐一定会轻轻的，最疼你哦！须不知，小和尚人小心不小，再待他时，一日长成，帝焚嘴角微勾：小灵儿，来香一个如何？哥哥一定会轻轻的，只疼你哦！百里灵大呼走眼！看魔皇如何宠妻无度，看废材如何逆袭，争霸天下！",
+            "mediaId": 1960155342,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188846.html",
+            "promotionId": 0,
+            "saleId": 1980188846,
+            "star": 5,
+            "title": "毒妃妖娆：魔皇，轻点撩！",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "阿姽",
+            "commentNumber": 194,
+            "coverPic": "http://img62.ddimg.cn/digital/product/50/37/1960155037_ii_cover.jpg?version=4450dfb9-36a3-4cf0-b057-9574df278580",
+            "desc": "身为大殷朝第一长公主，雒妃肤白貌美，大胸蜂腰细长腿，关键她还洁身自好不养面首。然，驸马还是给了她当胸一剑，送她去死！死了一死的雒妃怒了，重生到与驸马的洞房花烛夜——她当场将人踹下床榻，并道，“驸马床榻功夫浅薄，来人，给本宫送十个八个俊俏儿郎进来！”果然，作为公主，养面首才是正道！不想造反的驸马不是好驸马！于是，驸马秦寿孜孜不倦的在造反大业上汲汲营营。但是谁来告诉他，他的谋士什么时候做了公主的裙下之臣？还有他的幕僚，怎么就成了公主的入幕之宾，比他还受待见？连他从不正眼瞧的庶弟，居然也腼腆笑着对他说——“兄长，弟弟如今也是公主的人了……”说好的忠心不二呢？说好的共谋大业呢？说好的一辈子兄友弟恭呢？家里有这样嫌他活不好、养面首、抢他人、夺他权的公主，再不造反，这日子根本没法过了！——————————————————————————————————雒妃公主：本宫天下第一美！驸马：本驸马天下第一帅！雒妃公主：本宫勾勾手指，面首就前仆后继扑上来。驸马：本驸马一跺脚，大殷江山都要抖一抖，弄死个面首，不需要动手。雒妃公主：呸！不可与禽兽而语。驸马：无妨，上了榻不必多语。",
+            "mediaId": 1960155037,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188541.html",
+            "saleId": 1980188541,
+            "star": 5,
+            "title": "桃花妆",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "沉香",
+            "commentNumber": 117,
+            "coverPic": "http://img60.ddimg.cn/digital/product/30/2/1960143002_ii_cover.jpg?version=b4bb00dc-9ab9-4b4c-9143-62c1e55d9787",
+            "desc": "“宁为孤魂野鬼，哪怕魂飞魄散，妾妇也不愿轮回转世，定要苍天还我公道”阴森冰冷的地府，怨气冲天的女鬼意志坚决。阎王怜悯，以移魂之术令她重返阳间，附身丫鬟之身。这一次，她以丫鬟之身，再入家门，步步为营，查探当年她冤死的真相，引得二男争夺，翻身为主……",
+            "mediaId": 1960143002,
+            "mediaType": 1,
+            "productDetailUrl": "./1980176506.html",
+            "saleId": 1980176506,
+            "star": 5,
+            "title": "替身不乖：邪夫擒妻",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "程小一",
+            "commentNumber": 1707,
+            "coverPic": "http://img62.ddimg.cn/digital/product/3/75/1960130375_ii_cover.jpg?version=854bc5e1-26b7-4662-ab99-95737b7f6570",
+            "desc": "为了给儿子赚奶粉钱，她低调嫁给绯闻不断的腹黑总裁！在长辈面前秀恩爱，在外人面前撇清关系，假扮陌生人。后来他竟然摇身一变，成为了她孩子的亲生父亲！“离婚，马上离婚！”她握紧拳头，不能接受五年前那夜的事实。土豪老公邪魅一笑，“乖，睡都睡过了，凑合凑合过吧。”(本文纯属虚构，请勿模仿。)",
+            "mediaId": 1960130375,
+            "mediaType": 1,
+            "productDetailUrl": "./1980163879.html",
+            "saleId": 1980163879,
+            "star": 5,
+            "title": "暖妻成瘾",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "假面公子",
+            "commentNumber": 5,
+            "coverPic": "http://img61.ddimg.cn/digital/product/42/57/1960184257_ii_cover.jpg?version=00f71446-19e2-4387-b311-b9ebb182105a",
+            "desc": "燕邪：“臭丫头，你只要知道我永远都是你的燕邪哥哥从未变过，如此就够了。” 萧策：“小东西，我承认我是为了某种目的接近你的，不过，现如今我动心了。” 叱云南：“玖儿，我们之间除了利益，难道就不曾有过别的什么？” 司马诺：“我来接你回家了。” 愚弄邀请发表。",
+            "mediaId": 1960184257,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217876.html",
+            "saleId": 1980217876,
+            "star": 5,
+            "title": "倾城无颜女",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "水煮片片鱼",
+            "commentNumber": 3,
+            "coverPic": "http://img62.ddimg.cn/digital/product/53/85/1960155385_ii_cover.jpg?version=5b23dc8e-f9ac-4d98-98f3-83312a23088a",
+            "desc": "婚前，首长大人说了，他是军人，没时间谈情说爱。首长大人还说了，跟他结婚要耐得住寂寞，军婚不能离婚。余念答应他，反正她嫁人是无奈之举，首长大人忙就忙，她乐得清闲。婚后，首长大人会不会太清闲了一点？余念不淡定了：“你不是很忙吗？我要离婚！”首长大人勾唇一笑说道：“乖，我们是军婚......”",
+            "mediaId": 1960155385,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188889.html",
+            "promotionId": 0,
+            "saleId": 1980188889,
+            "star": 5,
+            "title": "一念情深如许",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "余丑",
+            "commentNumber": 5,
+            "coverPic": "http://img62.ddimg.cn/digital/product/46/31/1960184631_ii_cover.jpg?version=4fdd12b1-0cb9-446b-b594-70b993b437a3",
+            "desc": "所有细腻的感觉都会被时间的拱流淹没，被丑陋的街区覆盖，并且遭受粗俗生命的扼杀。 感受一下，暖空气膨胀变轻后上升，冷空气冷却变重后下降，这样冷暖空气便产生流动形成了风。 我就像它一样被动。在大海的最深处，我和全世界睡过。",
+            "mediaId": 1960184631,
+            "mediaType": 1,
+            "productDetailUrl": "./1980218330.html",
+            "saleId": 1980218330,
+            "star": 5,
+            "title": "来自深海的你",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "双凝",
+            "commentNumber": 166,
+            "coverPic": "http://img61.ddimg.cn/digital/product/57/86/1960155786_ii_cover.jpg?version=dbe4cf38-f2b5-4169-a9fa-e7329ccd8b72",
+            "desc": "喜欢男人的宫家二少突然来家里提亲了，没等她答应，就硬生生把她给娶了。新婚不久，她立马知趣地去夜店绑了个小鲜肉送到他的床上，却不想明明喜欢男人的宫二少把小鲜肉丢了出去，把她丢到了床上！“我是女的！我没JJ！我不是处，我第一次给谁都不知道！！”睡不下去了吧！“第一次给谁都不知道，嗯？”他把她花式壁咚在墙上，各种高难度动作，“嗯？想起来了？”她睁大眼睛，手指着面前的男人，气若游丝：“你你你！”从此以后，尹家三小姐多了个身份：宫家少夫人！还得了种病：看见床就腿软！",
+            "mediaId": 1960155786,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189290.html",
+            "promotionId": 0,
+            "saleId": 1980189290,
+            "star": 5,
+            "title": "婚从天降：总裁，借个吻！",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "卿语",
+            "commentNumber": 49,
+            "coverPic": "http://img61.ddimg.cn/digital/product/48/73/1960154873_ii_cover.jpg?version=c99320f4-19b4-4eb9-9513-fd40491df5a1",
+            "desc": "嗜血魔女，人们惧怕她。 霍乱江山，人们清绞她。 三王争霸，全由她而起。 “我是个吸血的魔鬼，你不怕吗？” ““凤残影！我负天负地，也不会负你，你为何不信？” “残烛已灭，你这样苦苦守着我，又有何用？” “哈哈哈......说我霍乱江山？好，那我就血染这天下！” 孟菲吸血鬼一枚，意外穿越到玄阳大陆，掀起一番腥风血雨，染红一身雪色霓裳。",
+            "mediaId": 1960154873,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188377.html",
+            "saleId": 1980188377,
+            "star": 5,
+            "title": "妃本善良",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "孪生鼠",
+            "commentNumber": 8,
+            "coverPic": "http://img60.ddimg.cn/digital/product/2/70/1960160270_ii_cover.jpg?version=dc1b94a7-5d58-4343-bb23-fa813f726f54",
+            "desc": "双十年华的她本是让人闻之色变的商业奇才，却被亲人奸计所害，自尽而亡。重生之后，成为昭阳国京师首富之嫡女，一场南北茶王之争让她如鱼得水，可惜好景不长，亲生娘亲竟然对她神憎鬼厌，她早被安排冲喜六王爷来换取家族茶叶经营官权。“王爷，咱们做个交易吧？”她朱唇轻启，他愕然。“我助你夺得江山。”石破惊天的话从她红唇中溢出，他如五雷轰顶。有钱能使鬼推磨，万金洒尽江山自来。昔日咄咄逼人的强势女，偏要入宫玩一场长袖善舞、八面玲珑的游戏。三年之约，他还来不及龙袍加身，她却嫣然一笑，道：“陛下，还记得当年我们的交易吗？臣妾要的是江山”……",
+            "mediaId": 1960160270,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193774.html",
+            "promotionId": 0,
+            "saleId": 1980193774,
+            "star": 5,
+            "title": "逆天王妃：王爷，定萌约",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "燕三娘",
+            "commentNumber": 1,
+            "coverPic": "http://img61.ddimg.cn/digital/product/2/53/1960190253_ii_cover.jpg?version=0e8f241c-0208-484c-bfae-c2f0afeac337",
+            "desc": "一场车祸害死了她的闺蜜，她幸运捡回一条命，灵魂却附在了闺蜜的身上，当一切已成定局，她决定用闺蜜的身份，完成她的心愿，发誓要站在娱乐圈的最顶端，把欺负过她的人，通通踩在脚底下。  众人都以为每天光鲜亮丽的站在闪光灯下的女人就是他们的安慕曦，却不知早就已经换成另一个人。  他是被科学家作为残次品丢弃在垃圾场的机器人，却被其学员捡回家，他被赋予了人类的情感，重新回到这个世界，并成为A市最大娱乐公司的老板，他发誓，他要证明自己不是一个废物。  两个毫不相干的人在尔虞我诈的娱乐圈相遇，她因戴着闺蜜的脸处处遇险，他以老板的身份多次相救，随着事情的发展，一些令人窒息的阴谋渐渐浮出水面，原来她所有的努力，竟然都是一个笑话，连最亲最爱的人，她都已经看不透了………",
+            "mediaId": 1960190253,
+            "mediaType": 1,
+            "productDetailUrl": "./1980223982.html",
+            "saleId": 1980223982,
+            "star": 5,
+            "title": "重生之名媛巨星",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "十三酱",
+            "commentNumber": 26,
+            "coverPic": "http://img60.ddimg.cn/digital/product/55/58/1960155558_ii_cover.jpg?version=25f6b8cb-5990-49d6-b518-6b948b273e9a",
+            "desc": "五年前，她只想逃离这个吃人的家庭，远赴国外进修，不想被后母妹妹设计送入了老男人的房间，逃离时却误入了A市大少叶清寒的房间，被吃干抹净。　　五年后，她带着两个萌宝回归，却发现有一个和自己儿子长得一模一样的一大一小两个人。　　大的说：媳妇，我钱虽然多，但是我缺爱。　　小的说：妈咪，我无家可归，求收留。",
+            "mediaId": 1960155558,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189062.html",
+            "promotionId": 0,
+            "saleId": 1980189062,
+            "star": 5,
+            "title": "幸孕甜妻：总裁买一送三",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "虫子吃菜叶",
+            "commentNumber": 73,
+            "coverPic": "http://img61.ddimg.cn/digital/product/37/9/1960183709_ii_cover.jpg?version=9e27b90f-1371-4310-872f-f78f913e8276",
+            "desc": "颜控！颜控！颜控！我喜欢穆嘉阳的脸，却被姐姐挖了墙角。我处心积虑上了穆良仁，他又成了我姐夫。后来我被自己亲爹打包送给了他。他一面高调地宠着姐姐，一面捧我上人生巅峰。有些事我们只做不说，比如：爱。",
+            "mediaId": 1960183709,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217307.html",
+            "promotionId": 0,
+            "saleId": 1980217307,
+            "star": 5,
+            "title": "嗨我们谈谈爱",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "水卿卿",
+            "commentNumber": 11,
+            "coverPic": "http://img62.ddimg.cn/digital/product/70/93/1960117093_ii_cover.jpg?version=8efeaaed-9ebd-4ec9-aad7-abbfa4039079",
+            "desc": "【女强宠文】当废柴成为绝顶天才——一个字：狠！两个字：腹黑！三个字：太逆天！她是惊才绝艳的大陆第一炼器师。一朝穿越，成了侯府任人欺凌的三小姐。上古神兽，很流弊吗？乖乖化身小萌宠，不然拔光毛做成炖鸡！九品天赋，千年第一？她天生神体，秒杀一切天才！极品玄器，价值万金？不好意思，她喂猫的饭盆都已经是神器了……她有一双洞悉一切的通天眼，却始终看不透——他！某王爷邪魅一笑，轻解衣带：“看不透？没关系，回房慢慢看，让你从头到脚看个够！”",
+            "mediaId": 1960117093,
+            "mediaType": 1,
+            "productDetailUrl": "./1980150597.html",
+            "saleId": 1980150597,
+            "star": 5,
+            "title": "邪帝狂妃：废材逆天三小姐",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "vpLimitTimeMedias": [
+        {
+            "authorPenname": "影妙妙",
+            "commentNumber": 0,
+            "coverPic": "http://img61.ddimg.cn/digital/product/64/14/1960156414_ii_cover.jpg?version=4d02208b-5245-497f-bbb4-6f4cbfb0bc4b",
+            "desc": "婚前，她是内科小护士，服务所有病人，不分男女！婚后，她却成了男科女医生，只服务他一人，不分昼夜！为了治疗他的不孕症，成功制造一个豪门继承人……她随时随地以身试孕……“夜连城，不就是要个娃吗？质量才是关键吧？搞那么多花样干吗！要我死啊？”苏芹扶着快要断了的小蛮腰，怒摔！“要想生娃就得先死，这叫欲……生……欲……死！”夜连城换了个姿势，再次欺身而上……【1V1宠文，欢迎跳坑！】",
+            "mediaId": 1960156414,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189918.html",
+            "saleId": 1980189918,
+            "star": 0,
+            "title": "蜜汁娇妻，火辣辣！",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "一颗米",
+            "commentNumber": 96,
+            "coverPic": "http://img62.ddimg.cn/digital/product/38/28/1960183828_ii_cover.jpg?version=c907d404-0a35-4767-88e0-4fbe1b671f93",
+            "desc": "现代杀手一朝穿越成为将军府的三无千金，本想安静的度过这一生，奈何卷入权利之争。皇帝的猜忌一道圣旨解除她与太子的婚约，又一道圣旨将她赐婚给离王府人称药罐子的世子，让天下耻笑……  国师一句话又让她成为皇储们争夺的对象，一时间，她被推上了风口浪尖……  太子欺她，她利用国师废除太子，皇储利用他，她用谋略逐一打杀，与天下第一公子的爱恨情仇终究抵不过她心中之爱……  “这酒可好……”  “好”  “这人……可喜欢…” “……”那桃花飞舞间的无双公子，迷了她的眼。",
+            "mediaId": 1960183828,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217435.html",
+            "saleId": 1980217435,
+            "star": 5,
+            "title": "嚣张世子妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "读客图书",
+            "commentNumber": 3,
+            "coverPic": "http://img62.ddimg.cn/digital/product/54/79/1960155479_ii_cover.jpg?version=250c4b62-80b2-4190-9000-eb47d3c180fe",
+            "desc": "同名网剧点击量破40亿！小说剧情完爆网剧！现象级畅销书！畅销突破100万册！粉丝熬夜追读！水太深！一个传奇警察和毒贩、悍匪、黑道大佬的交锋实录！张一山、马伯庸、小桥老树、蔡骏、周浩晖、孔二狗狂热推荐！ 一个传奇警察和毒贩、悍匪、黑道大佬的交锋实录！ 翻开本书，带你窥探这个时代的黑暗角落，领略触目惊心的真实景象！ 根据真实案件改编！本书写作过程中，无数职业警察匿名参与到剧情讨论当中！",
+            "mediaId": 1960155479,
+            "mediaType": 1,
+            "productDetailUrl": "./1980188983.html",
+            "saleId": 1980188983,
+            "star": 5,
+            "title": "余罪",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "风傲香",
+            "commentNumber": 1,
+            "coverPic": "http://img62.ddimg.cn/digital/product/55/55/1960155555_ii_cover.jpg?version=7d9a1153-153c-493d-95af-bf01f11fe6b3",
+            "desc": "她是二十二世纪身价上亿的军医，一朝穿越异界竟成顾家枉死的废材“大少爷”，尸体未僵，白莲花竟然公然上门，众目睽睽之下颠倒黑白，反正死人不会说话。哼！真当她顾北歌是省油的灯！神医再世，她已不是当初那个受气包，而是集腹黑，才智为一身的人面修罗，欺她者，辱她者，且看她如何打脸打得飞起！神器在手，天下我有！功法秘籍，呆萌神宠，更有傲娇正太师父相随。等等，这位邪魅美男算是什么情况，品味独特就算了，还像狗皮膏药一般甩不掉。",
+            "mediaId": 1960155555,
+            "mediaType": 1,
+            "productDetailUrl": "./1980189059.html",
+            "saleId": 1980189059,
+            "star": 5,
+            "title": "邪帝缠身：腹黑医妃太嚣张",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "荒诞人生",
+            "commentNumber": 100,
+            "coverPic": "http://img60.ddimg.cn/digital/product/98/78/1960159878_ii_cover.jpg?version=68db9231-236c-4927-8ed7-c98f5daf9f01",
+            "desc": "无论对错是非，只为亲人。看一个穿越者怎么成长。亲人是我逆鳞，若犯者必杀之，身若游龙,脚破苍穹虚空!心若猛虎,击杀万千狂魔!灵武大陆,一个以武为尊的世界!当一个灵魂附身到了灵武大陆中一个家族的少爷身上之后,世界因他而颤抖了",
+            "mediaId": 1960159878,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193382.html",
+            "saleId": 1980193382,
+            "star": 5,
+            "title": "极剑巅峰",
+            "ycPrice": "免费"
+        }
+    ],
+    "vpPotentialRedMedias": [
+        {
+            "authorPenname": "墨白焰",
+            "commentNumber": 36,
+            "coverPic": "http://img60.ddimg.cn/digital/product/37/79/1960153779_ii_cover.jpg?version=209eb54e-8982-485c-835d-aa8270cd592d",
+            "desc": "一夜血屠，名门摇摇欲坠；一场阴谋，他与她相逢波谲云诡。 江山局，她处变不惊，游走斡旋修罗血场；他风姿落拓，素扇轻摇，偏是她绊脚顽石。 六国乱，她运筹帷幄，力挽狂澜横枪立马；他朱衣银甲，眉宇如故，却已成生死宿敌。 倾杯酒，惑君心，阴谋中相伴而行，真相里拔剑相向。情结情劫，何为归宿？",
+            "mediaId": 1960153779,
+            "mediaType": 1,
+            "productDetailUrl": "./1980187283.html",
+            "promotionId": 0,
+            "saleId": 1980187283,
+            "star": 5,
+            "title": "凰临九天",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "梵缺",
+            "commentNumber": 27,
+            "coverPic": "http://img61.ddimg.cn/digital/product/50/56/1960095056_ii_cover.jpg?version=029708dc-4717-466c-b625-7a5a0480d5eb",
+            "desc": "为了逃避追杀，贺兰玖躲入水底，一不小心看见了某妖孽果体。 她嘴贱说：“哥哥，你……没啥看头？” 一句话引发血案，她被妖孽重伤！ 这下梁子结大了！ 等妖孽落难了，她又狠阴了他一把。 得逞后，她阴险笑了：你毁我清白，我让你不举，公平吧。 妖孽反击：“那……我们就凑成对吧。” “！！！……” (妖孽宣言：本王可以欺负你，但，别人不行！)",
+            "mediaId": 1960095056,
+            "mediaType": 1,
+            "productDetailUrl": "./1980128560.html",
+            "saleId": 1980128560,
+            "star": 5,
+            "title": "迫嫁妖孽殿下：爆笑小邪妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "猪宝宝萌萌哒",
+            "commentNumber": 8,
+            "coverPic": "http://img61.ddimg.cn/digital/product/67/63/1960116763_ii_cover.jpg?version=6fbc6be6-291e-467e-b4ff-66853545b9e1",
+            "desc": "他是豪门太子爷，她是出身平凡智商却高达130的天才，他们曾深爱过三年成为高校神话情侣。毕业前夕他家人操控一场阴谋导致她家破人亡的悲剧，让她被迫绝情分手。七年后，他霸气出现在同学会上，将她抵在墙角霸道咬住她的唇，以强者的姿态宣布——宝贝，我回来了。她一再躲避，他却步步紧逼，不惜用尽手段，直到她答应和他领证结婚。没人知道，午夜梦回，他总站在窗边看着熟睡的她，眼中满满的宠溺。所有人都说他偏执狂，可是他偏执的也只有一个她，仅此而已。极品宠文一对一，身心干净，欢迎跳坑！",
+            "mediaId": 1960116763,
+            "mediaType": 1,
+            "productDetailUrl": "./1980150267.html",
+            "saleId": 1980150267,
+            "star": 5,
+            "title": "隐婚蜜爱：偏执老公宠上瘾",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "叶非夜",
+            "commentNumber": 7,
+            "coverPic": "http://img62.ddimg.cn/digital/product/46/34/1960094634_ii_cover.jpg?version=9e839b92-ae3c-4871-a05c-765a0cf24d83",
+            "desc": "【全文完】“老公，是你说的只要我喜欢的都尽管带回家，包包，衣服，化妆品...喏，还有一个帅哥！”盛世掀桌，是谁说的，娶了她，她就是他的独家玩具，无人敢碰。事实证明，不把他放在眼里的人不只是顾阑珊：“先生，这是快递给顾小姐的玫瑰花，请签收。”“少爷，一个男人站在楼下给太太唱了一夜情歌。”“老板，太太在街上被一个女人强吻了...”本书已出版，出版名为《爱你，是我的地老天荒》，当当网，淘宝都有卖",
+            "mediaId": 1960094634,
+            "mediaType": 1,
+            "productDetailUrl": "./1980128138.html",
+            "saleId": 1980128138,
+            "star": 5,
+            "title": "萌物遇上高富帅：101次抢婚",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "九君",
+            "commentNumber": 5,
+            "coverPic": "http://img61.ddimg.cn/digital/product/74/48/1960097448_ii_cover.jpg?version=a3cefc81-4ae7-4ae2-bd17-b54c48c21f50",
+            "desc": "南宫离，二十一世纪药师世家之女，采药丧命，魂穿异界大陆，附身同名同姓少女身上。什么，此女废柴，懦弱无能？没关系，左手“丹毒典”，右手通天塔，毒丹在手，巨塔在侧，谁若嚣张，让谁遭殃。尼玛，太子悔婚，转赐废物王爷？姐要逆天，虐死你们这群渣。废柴变天才，懦女变毒女，鬼王守护，遍走天下！",
+            "mediaId": 1960097448,
+            "mediaType": 1,
+            "productDetailUrl": "./1980130952.html",
+            "saleId": 1980130952,
+            "star": 5,
+            "title": "嗜宠小毒妃",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "vpRecommendMedias": [
+        {
+            "authorPenname": "草根人生",
+            "commentNumber": 14,
+            "coverPic": "http://img61.ddimg.cn/digital/product/20/18/1960152018_ii_cover.jpg?version=1c00fcfe-ad1a-4a20-8be7-86dc1baed145",
+            "desc": "沈家大小姐好不容易逃婚成功，却遇上了最时髦的穿越。偏偏时运不济，旁人穿越步步莲花，她在青楼楚馆哼哼哈哈，好不容易成了无双郡主。转眼就被嫁给了冰山太子。这还要不要人活着迈向美好人生啊！ 第一次交锋，两人大打出手，她哭爹喊娘差点儿以身相许。 　第二次交锋，他是当朝太子，她一个郡主愣是矮了一截子。 　第三次交锋，他是她的夫君，她终于等来了平起平坐的机会。 　好不容易打算大显身手，宣告一下自己的地位无可撼动，谁知这时小三小四齐齐上阵，忙的她晕头转向，最后还差一点儿丢了身家性命。 　她终于明白了一个道理：老娘不干了，好好的一大片森林，为何要冻死在冰山上。",
+            "mediaId": 1960152018,
+            "mediaType": 1,
+            "productDetailUrl": "./1980185522.html",
+            "promotionId": 0,
+            "saleId": 1980185522,
+            "star": 5,
+            "title": "爱从天降萌妃戏冷皇",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "海星99",
+            "commentNumber": 3,
+            "coverPic": "http://img61.ddimg.cn/digital/product/8/28/1960100828_ii_cover.jpg?version=224d3b80-dfc5-47b6-9c93-7996bda2fc64",
+            "desc": "　　重生到燃情年代，从荒野醒来，水莲深深地觉得压力山大。　　无良的养父母也就罢了，唯一一个好爷爷，却不得善终。　　父母不详，孪生弟弟下落不明。　　且看水莲是如何找到弟弟，拨开云雾，找出答案，　　在这个特殊的年代里好好的活下来，领着亲人走上幸福大道……　　",
+            "mediaId": 1960100828,
+            "mediaType": 1,
+            "productDetailUrl": "./1980134332.html",
+            "saleId": 1980134332,
+            "star": 5,
+            "title": "重生在六零",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "渐进淡出",
+            "commentNumber": 0,
+            "coverPic": "http://img60.ddimg.cn/digital/product/4/3/1960160403_ii_cover.jpg?version=7d1a4d16-057e-41a6-be5b-3ce1dfef53a3",
+            "desc": "沈晓晓穿越了，穿去了一个叫闵泽国的旮旯朝代，悲催在是由集三千宠爱于一身的世家大族豪门千金穿成了奶不疼爷不爱在赔钱货。但上天从来都待她不薄的，作为补偿赠给她一个随身空间。且看她在这落后在古代过得怎样发家致富，帮助百胜过上安居乐业的日子。让整个闵泽皇朝的人都知道他们的福星王妃倾国倾城，",
+            "mediaId": 1960160403,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193907.html",
+            "saleId": 1980193907,
+            "star": 0,
+            "title": "农女倾城",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "月落星华",
+            "commentNumber": 2,
+            "coverPic": "http://img61.ddimg.cn/digital/product/29/77/1960082977_ii_cover.jpg?version=6d16bf78-cf9b-41c4-b28d-7cb8a3749386",
+            "desc": "宁为平民妻，不做帝王妾。这是她心中最深刻的感受。母亲的遭遇让她深感皇室无情，也暗中发誓此生不愿重蹈母亲的覆辙。但天意弄人。父王战败要将她送去敌国和亲。所嫁之人还是花名满天下的浪荡王爷，府中妻妾成群。纵然千般不愿，还是无法逃脱宿命的安排。新婚之夜，贴身衣物竟被当成赌注，之后更是屡遭羞辱和耻笑。他是南燕国最年轻最风流的王爷，而她只能成为他的女奴，任他肆意的侮辱。谁知，他的侮辱却换来了她的一句：你真可怜。气愤，从来没人敢如此对他说话，怒火攻心的他狠心将湮儿送于他人做玩物。也成功的看到了她眼中的慌乱，但为何自己的心却也有一丝不舍。再见面时，她已不再是他的女奴。而是名满天下的罂粟美人，更是皇兄即将纳为宠姬的女人。看着脸上多了一朵梅花烙的她，他的心里疯狂的呐喊，不，不管你是谁，你都只能是我南宫焰的女人，任何人都别想得到你。",
+            "mediaId": 1960082977,
+            "mediaType": 1,
+            "productDetailUrl": "./1980116480.html",
+            "saleId": 1980116480,
+            "star": 5,
+            "title": "梅花烙：魅惑毒姬",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "六月浩雪",
+            "commentNumber": 41,
+            "coverPic": "http://img61.ddimg.cn/digital/product/21/21/1960102121_ii_cover.jpg?version=16ca77bf-6893-4f42-a730-69123e05f102",
+            "desc": "重生到古代，面对种种艰辛，她只想活出风采，创造属于她的传奇。",
+            "mediaId": 1960102121,
+            "mediaType": 1,
+            "productDetailUrl": "./1980135625.html",
+            "saleId": 1980135625,
+            "star": 5,
+            "title": "重生之温婉",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "vpRewardsMedias": [
+        {
+            "authorPenname": "默夕179",
+            "commentNumber": 79,
+            "coverPic": "http://img60.ddimg.cn/digital/product/52/24/1960085224_ii_cover.jpg?version=3ab45c88-e98f-469e-a5c3-646cf2d79c44",
+            "desc": "初始时，她12岁，他24岁，中间相差了12年。 她第一次觉得世界上竟有如此好看的男人，他就像一抹暖阳闯进她小小的心脏里。 多年后，当她偷偷亲吻他的嘴角，告诉他，我就要缠着你，缠着你一辈子，死都不放手。他愤怒过，逃避过，可一夜纠缠，让他下定决心与她在一起。但她却自杀了，他想不明白，她曾那么努力的纠缠他，引他入地狱，结果他沉沦了，却换来了她死都不想和他在一起。 爱情是一种穿肠的毒药，在他还来得及自救时，他放手了，放她离开了。 可是往往人在最无奈时做的选择都是最为违心的，他并不知道有的爱一旦入了心就深到了骨髓，像是掉进了一个漩涡，困在其中，挣扎不得，躲避不得。 四年后，他要结婚了，而她成了未婚妈妈。再相遇他并未刻意与她纠缠，可天下没有免费的午餐，曾经犯下的错总会有人要买单。 他们之间从一开始就不是纯粹的，掺杂的东西太多了，要如何，才可以有被珍爱的人生。",
+            "mediaId": 1960085224,
+            "mediaType": 1,
+            "productDetailUrl": "./1980118728.html",
+            "saleId": 1980118728,
+            "star": 5,
+            "title": "萌妻不服叔",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "公子羽墨",
+            "commentNumber": 21,
+            "coverPic": "http://img60.ddimg.cn/digital/product/54/73/1960065473_ii_cover.jpg?version=b0821353-841c-42fd-ac1e-50b4b7eddce1",
+            "desc": "她身怀异技，谈笑间取人性命，世人都道她无情，却不知她身负灭门深仇。",
+            "mediaId": 1960065473,
+            "mediaType": 1,
+            "productDetailUrl": "./1980098984.html",
+            "saleId": 1980098984,
+            "star": 5,
+            "title": "霸道总裁杀手妻",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "公子羽墨",
+            "commentNumber": 19,
+            "coverPic": "http://img61.ddimg.cn/digital/product/13/92/1960081392_ii_cover.jpg?version=1b07a1d8-b41c-417e-b115-296b4b6f3120",
+            "desc": "他死皮赖脸打动了她，一转眼一切却成阴谋！芳心错付，她要他付出代价！",
+            "mediaId": 1960081392,
+            "mediaType": 1,
+            "productDetailUrl": "./1980114895.html",
+            "saleId": 1980114895,
+            "star": 5,
+            "title": "妖孽总裁的恶魔拽妻",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "飞",
+            "commentNumber": 3,
+            "coverPic": "http://img60.ddimg.cn/digital/product/55/84/1960085584_ii_cover.jpg?version=1ac92465-b3ea-427f-8ea9-61ec9e4e3568",
+            "desc": "我们都没忘了当年的梦想，曾经的追求，我们像一只小蝼蚁一般在城市里打拼，只为了不辜负年少…柒姐的日子，柒姐的人生，或多或少的，都有你我的影子。",
+            "mediaId": 1960085584,
+            "mediaType": 1,
+            "productDetailUrl": "./1980119088.html",
+            "saleId": 1980119088,
+            "star": 5,
+            "title": "柒年",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "宿妖",
+            "commentNumber": 5,
+            "coverPic": "http://img60.ddimg.cn/digital/product/32/87/1960083287_ii_cover.jpg?version=b9c40f5a-f644-4422-b810-4cb34a4940f5",
+            "desc": "风流倜傥的三皇子，阴郁狠绝的辰王，还有那个他，谁才是她心中所爱！",
+            "mediaId": 1960083287,
+            "mediaType": 1,
+            "productDetailUrl": "./1980116790.html",
+            "saleId": 1980116790,
+            "star": 5,
+            "title": "步寸心",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "还君明珠",
+            "commentNumber": 6,
+            "coverPic": "http://img60.ddimg.cn/digital/product/25/6/1960072506_ii_cover.jpg?version=24536ceb-4bcb-4a8c-b7ca-f0553951f874",
+            "desc": "现代病毒研发员魂穿异古，从一国公主到铁血枭妃，她势必要盛世风华！",
+            "mediaId": 1960072506,
+            "mediaType": 1,
+            "productDetailUrl": "./1980106009.html",
+            "promotionId": 0,
+            "saleId": 1980106009,
+            "star": 5,
+            "title": "盛宠毒妃",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "vpSaleMedias": [
+        {
+            "authorPenname": "冰蓝纱X",
+            "commentNumber": 58,
+            "coverPic": "http://img62.ddimg.cn/digital/product/86/0/1960178600_ii_cover.jpg?version=a7d85eff-0d20-409a-896d-cacd68200a1d",
+            "desc": "古装科幻电视剧《天泪传奇之凤凰无双》原著，由王丽坤、郑元畅等主演。        讲述北齐世家千金缪芊芊,举家被身为相国的夫君顾清鸿谋害,后被梁国睿王萧凤青所救,以聂无双名字重生的故事。        “相国大人有令，你要走出这相国府，就必须打掉腹中的孽种！”妖媚的女人端着一碗黑漆漆的汤药，红唇似血，一步步向她逼近。        她被休下堂，身无分文，流落街头，唯一的骨肉在出府之前的一碗汤药化成一滩血水。无颜回娘家，却第二天在刑场上看见自己的族人被满门抄斩，监斩的人却是她的夫君。刹那间，往昔所有的恩爱通通成了彻骨仇恨。        “顾清鸿！若我不死，当卷土重来，报满门血仇！”她对着那扇紧闭的朱漆大门冷冷发誓。暴雨中，她踉跄扑向一辆黑夜中疾驰来的黑色马车……",
+            "mediaId": 1960178600,
+            "mediaType": 1,
+            "productDetailUrl": "./1980212104.html",
+            "saleId": 1980212104,
+            "star": 5,
+            "title": "天泪传奇之凤凰无双",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "躲鱼猫",
+            "commentNumber": 750,
+            "coverPic": "http://img62.ddimg.cn/digital/product/34/64/1960183464_ii_cover.jpg?version=1369ab73-497e-4272-929f-7fa4b95ab7c5",
+            "desc": "分手四年后饭局间偶遇， 我旧情难忘嫁他为妻， 转眼他的小彩旗却挺着肚子上门耀武扬威。 我终落败而逃，才知道这个世界上最残酷的事实是：  重逢，不过是把浓情变厌倦的契机， 而这个世界上能赢的，多半是薄情的人。",
+            "mediaId": 1960183464,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217056.html",
+            "promotionId": 0,
+            "saleId": 1980217056,
+            "star": 5,
+            "title": "愿无深情可相守",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "苏小暖",
+            "commentNumber": 2569,
+            "coverPic": "http://img60.ddimg.cn/digital/product/67/27/1960106727_ii_cover.jpg?version=8849b891-c3c3-45ad-976e-d598e802b041",
+            "desc": "废柴四小姐遇上晋王殿下，且看强者之间上演一出追逐与被追逐的好戏。",
+            "mediaId": 1960106727,
+            "mediaType": 1,
+            "productDetailUrl": "./1980140231.html",
+            "saleId": 1980140231,
+            "star": 5,
+            "title": "邪王追妻：废材逆天小姐",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "青酒沐歌",
+            "commentNumber": 38,
+            "coverPic": "http://img62.ddimg.cn/digital/product/59/93/1960135993_ii_cover.jpg?version=cb2681df-32bd-478c-b97d-5ebb49ee2b6e",
+            "desc": "她本是21世纪顶级医师，带着医生系统穿越成丞相府草包嫡女，亲爹不疼，庶母不爱，还被太子退了婚！他是东楚战神凌王，先帝幼子，少年成名，然而容貌被毁、一身是病而且不举。一纸婚书将她和他紧紧绑到一起，名为冲喜，实为羞辱。嗯，就这样一不小心，她由太子妃到凌王妃，升了个辈分！面对渣白莲的挑衅，一把手术刀扔出去，勾唇：“划花你的脸，看你还如何钩引我家王爷！”面对渣太子的找茬，一个刀子眼扫过去，冷道：“太子，见了你皇婶还不行礼？”救死扶伤是医生的天职，可不代表她良善好欺，想要欺辱她，她家王爷还不答应呢！【情节虚构，请勿模仿】",
+            "mediaId": 1960135993,
+            "mediaType": 1,
+            "productDetailUrl": "./1980169497.html",
+            "saleId": 1980169497,
+            "star": 5,
+            "title": "回眸医笑，冷王的神秘嫡妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "秦兮",
+            "commentNumber": 11,
+            "coverPic": "http://img61.ddimg.cn/digital/product/60/62/1960146062_ii_cover.jpg?version=70a5e991-5eab-4e61-838a-b75d7a6ed09d",
+            "desc": "不要脸面不顾廉耻贴了英国公一辈子的宋楚宜死了。她死的那一日英国公正好请了戏班子来给她的亲妹妹贺寿。伶仃一人的宋楚宜觉得再无眷恋。谁知睁眼却重新回到未婚前。问她还要不要不顾一切的追逐所谓的真爱？她心平气和：不是我的我不要。上一世的事大家都有错就算了。这一世好好过吧。谁知某个也重活一世的人偏偏如同臭皮膏药搅得她不得安生。XXXXX！宋楚宜再也克制不住，妈蛋都是千年的狐狸你跟我玩什么聊斋？！我不玩的你们满地找牙我就不姓宋！",
+            "mediaId": 1960146062,
+            "mediaType": 1,
+            "productDetailUrl": "./1980179566.html",
+            "saleId": 1980179566,
+            "star": 5,
+            "title": "名门闺战",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "日暮三",
+            "commentNumber": 50,
+            "coverPic": "http://img60.ddimg.cn/digital/product/51/74/1960085174_ii_cover.jpg?version=23f31c8f-c2bd-4fa4-a43f-d7e958c42464",
+            "desc": "家族联姻，乔陌笙一直以为自己嫁的是简家三少简裔云，所以在民政局等到的是简家大少简深炀的时候，她懵了。她：“大大哥。”他蹙眉：“你喜欢这么称呼我？”她尴尬的想：她日后丈夫的大哥，不叫大哥还能换个叫法吗？完成了登记手续，她才知道，原来还真的可以换个叫法的。这声大哥叫出口后，她却习惯了，婚后也改不了口。",
+            "mediaId": 1960085174,
+            "mediaType": 1,
+            "productDetailUrl": "./1980118678.html",
+            "saleId": 1980118678,
+            "star": 5,
+            "title": "暖婚，我的霸道总裁",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "vpWeekRankMedias": [
+        {
+            "authorPenname": "月月要吃土",
+            "commentNumber": 1,
+            "coverPic": "http://img61.ddimg.cn/digital/product/36/23/1960183623_ii_cover.jpg?version=d0f3375d-8a55-4914-8cb8-03c561661f3b",
+            "desc": "一切岁月恬静，可因为工作的转换，让她不知不觉陷入了这个男人温柔乡陷阱当中不可自拔。他带领她游刃于精彩纷呈的市场中竞争驰骋；他把世间人情练达，在公司上下备受推崇，在外界名声鹊起；他教会了她如何去爱，从家庭，从个人，从工作，从生活，哪一样都为了她着想安排妥当，让她切切实实感受到了什么叫万般宠爱。她却做了些什么？掩饰伪装，怀疑他阴险狡诈，蓄意谋杀了她的未婚夫，甚至与敌对公司结为“同盟”，利用公司股权威胁他，推开了彼此的距离。。。。。。可以加作者qq2478862066微信1546912397",
+            "mediaId": 1960183623,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217216.html",
+            "rewardCoins": 500,
+            "saleId": 1980217216,
+            "star": 5,
+            "title": "为何让我遇见你",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "北萩",
+            "commentNumber": 399,
+            "coverPic": "http://img62.ddimg.cn/digital/product/89/3/1960158903_ii_cover.jpg?version=3c7d244b-5544-4102-9ff9-092490fd7632",
+            "desc": "夜郎女子艾北萩通过层层筛选，成功进入夜郎国皇家画院。本以为可以在此有一番作为，却不断地被卷进这个部族式国家的种种纷争中，从被错爱到至死不渝，从登堂入阁到被迫隐遁。用自己的青春见证了古夜郎国的从盛到衰，以及自己在爱与被爱间纠葛不清的传奇一生。 网编：素文",
+            "mediaId": 1960158903,
+            "mediaType": 1,
+            "productDetailUrl": "./1980192407.html",
+            "rewardCoins": 100,
+            "saleId": 1980192407,
+            "star": 5,
+            "title": "宫闱乱之夜郎第一妃",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "云之北",
+            "commentNumber": 8,
+            "coverPic": "http://img62.ddimg.cn/digital/product/39/15/1960183915_ii_cover.jpg?version=eb671133-0e88-4ba0-ae20-4f2b91a94eb8",
+            "desc": "五年前，她与他一见倾心许誓要携手白头。 三年后，她与他再见却无法相拥。 他贵为青兰帝国的兵马总元帅，而她只是弦音阁中的书寓。 绝代容颜，可倾覆万千男儿，却无法笑卧君怀。 绝世剑法，只为他一人舞，愿为他斩尽沿途艰辛，只为成就他的霸业。 若再世为人，她可还愿许他一袭红衫出嫁？",
+            "mediaId": 1960183915,
+            "mediaType": 1,
+            "productDetailUrl": "./1980217526.html",
+            "rewardCoins": 100,
+            "saleId": 1980217526,
+            "star": 5,
+            "title": "弦音阁",
+            "ycPrice": "免费"
+        },
+        {
+            "authorPenname": "子归",
+            "commentNumber": 202,
+            "coverPic": "http://img61.ddimg.cn/digital/product/99/4/1960159904_ii_cover.jpg?version=92bf0800-762c-464a-87d9-2d5a5d52fa07",
+            "desc": "传说她有“克夫”之命，7年之间“克死”七个未婚夫，但是谁能告诉她，这个一直“克”不走的男人是什么怪胎？ 传说他是最年轻的市长，倾世容颜，被称为“国民市长”，他爱民如子，后来又加了一条，宠妻如命。 对墨念寻来说，玉简一是她命中的劫，而对于玉简一来说，墨念寻是他的命。 情，不深，只是因为不动情。爱，不到，只是因为没碰对人。 素文 本故事纯属虚构，如有雷同，请勿怪～",
+            "mediaId": 1960159904,
+            "mediaType": 1,
+            "productDetailUrl": "./1980193408.html",
+            "rewardCoins": 100,
+            "saleId": 1980193408,
+            "star": 5,
+            "title": "市长大人蜜宠是非妻",
+            "ycPrice": "5铃铛/千字"
+        },
+        {
+            "authorPenname": "青酒沐歌",
+            "commentNumber": 38,
+            "coverPic": "http://img62.ddimg.cn/digital/product/59/93/1960135993_ii_cover.jpg?version=cb2681df-32bd-478c-b97d-5ebb49ee2b6e",
+            "desc": "她本是21世纪顶级医师，带着医生系统穿越成丞相府草包嫡女，亲爹不疼，庶母不爱，还被太子退了婚！他是东楚战神凌王，先帝幼子，少年成名，然而容貌被毁、一身是病而且不举。一纸婚书将她和他紧紧绑到一起，名为冲喜，实为羞辱。嗯，就这样一不小心，她由太子妃到凌王妃，升了个辈分！面对渣白莲的挑衅，一把手术刀扔出去，勾唇：“划花你的脸，看你还如何钩引我家王爷！”面对渣太子的找茬，一个刀子眼扫过去，冷道：“太子，见了你皇婶还不行礼？”救死扶伤是医生的天职，可不代表她良善好欺，想要欺辱她，她家王爷还不答应呢！【情节虚构，请勿模仿】",
+            "mediaId": 1960135993,
+            "mediaType": 1,
+            "productDetailUrl": "./1980169497.html",
+            "rewardCoins": 100,
+            "saleId": 1980169497,
+            "star": 5,
+            "title": "回眸医笑，冷王的神秘嫡妃",
+            "ycPrice": "5铃铛/千字"
+        }
+    ],
+    "ycFirstAdsMid": [
+        {
+            "code": "2378",
+            "coverPic": "http://img62.ddimg.cn/ww2017/8/shunv.jpg",
+            "title": "庶女专题",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2376",
+            "coverPic": "http://img61.ddimg.cn/ww2017/8/zhongtian.jpg",
+            "title": "女神也种田",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2416",
+            "coverPic": "http://img63.ddimg.cn/ww2017/10/1.jpg",
+            "title": "穿越",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2509",
+            "coverPic": "http://img63.ddimg.cn/www/a/1/2.jpg",
+            "title": "总裁别乱来",
+            "type": "subject",
+            "url": ""
+        }
+    ],
+    "ycNpAdsMid": [
+        {
+            "code": "685",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/回到古代做皇帝280-120.jpg",
+            "title": "回到古代做皇帝",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "816",
+            "coverPic": "http://e.dangdang.com/media/h5/pc/yuanchuang/img/纵横都市的异能王者280-120.jpg",
+            "title": "纵横都市的异能王者",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2398",
+            "coverPic": "http://img62.ddimg.cn/ww2017/10/bw.jpg",
+            "title": "兵王",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2118",
+            "coverPic": "http://img62.ddimg.cn/ddreader/Feature/0405l.708-420.jpg",
+            "title": "灵异网文",
+            "type": "subject",
+            "url": ""
+        }
+    ],
+    "ycNpRollBlocks": [
+        {
+            "code": "1980129337",
+            "coverPic": "http://img60.ddimg.cn/ww/9/18/jsys.jpg",
+            "title": "绝世药神",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980120659",
+            "coverPic": "http://img62.ddimg.cn/ww/9/17/lyzs.jpg",
+            "title": "龙印战神",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980120078",
+            "coverPic": "http://img60.ddimg.cn/ww/9/17/wddz.jpg",
+            "title": "武道",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980147699",
+            "coverPic": "http://img62.ddimg.cn/ww/9/17/gybz.jpg",
+            "title": "工业",
+            "type": "detail",
+            "url": ""
+        }
+    ],
+    "ycNvRollBlocks": [
+        {
+            "code": "1980206376",
+            "coverPic": "http://img63.ddimg.cn/ww/9/18/jqnx.jpg",
+            "title": "娇妻难训",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980159640",
+            "coverPic": "http://img63.ddimg.cn/ww/9/17/ysys.jpg",
+            "title": "一生一世",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980149232",
+            "coverPic": "http://img60.ddimg.cn/ww/9/17/qgj.jpg",
+            "title": "权贵娇",
+            "type": "detail",
+            "url": ""
+        },
+        {
+            "code": "1980163983",
+            "coverPic": "http://img61.ddimg.cn/ww/9/17/txws.jpg",
+            "title": "天下无双",
+            "type": "detail",
+            "url": ""
+        }
+    ],
+    "ycSecondAdsMid": [
+        {
+            "code": "2397",
+            "coverPic": "http://img60.ddimg.cn/ww2017/10/gc.jpg",
+            "title": "官场",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2398",
+            "coverPic": "http://img62.ddimg.cn/ww2017/10/bw.jpg",
+            "title": "兵王",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2195",
+            "coverPic": "http://e.dangdang.com/media/h5/ww/wlwx/3/``.jpg",
+            "title": "阴阳通灵师",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2333",
+            "coverPic": "http://e.dangdang.com/media/h5/ww/wlwx/2/nm.jpg",
+            "title": "男频限免",
+            "type": "subject",
+            "url": ""
+        }
+    ],
+    "ycThirdAdsMid": [
+        {
+            "code": "2420",
+            "coverPic": "http://img61.ddimg.cn/ww2017/10/6v.jpg",
+            "title": "6月女畅销",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2419",
+            "coverPic": "http://img62.ddimg.cn/ww2017/10/6n.jpg",
+            "title": "6月男畅销",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2299",
+            "coverPic": "http://e.dangdang.com/media/h5/ww/wlwx/2/280.jpg",
+            "title": "影视小说原著",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2362",
+            "coverPic": "http://e.dangdang.com/media/h5/ww/wlwx/2/fh.jpg",
+            "title": "腹黑大小姐",
+            "type": "subject",
+            "url": ""
+        }
+    ],
+    "ycVpAdsMid": [
+        {
+            "code": "2362",
+            "coverPic": "http://e.dangdang.com/media/h5/ww/wlwx/2/fh.jpg",
+            "title": "腹黑大小姐",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2116",
+            "coverPic": "http://img62.ddimg.cn/ddreader/Feature/0405Z.708-420.jpg",
+            "title": "总裁文",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2376",
+            "coverPic": "http://img61.ddimg.cn/ww2017/8/zhongtian.jpg",
+            "title": "女神也种田",
+            "type": "subject",
+            "url": ""
+        },
+        {
+            "code": "2416",
+            "coverPic": "http://img63.ddimg.cn/ww2017/10/1.jpg",
+            "title": "穿越",
+            "type": "subject",
+            "url": ""
+        }
+    ]
+}
